@@ -1,98 +1,141 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
+import { useColorScheme } from '@/hooks/use-color-scheme';
+import { RefreshCw } from 'lucide-react-native';
+import React, { useEffect, useRef, useState } from 'react';
+import { Animated, SafeAreaView, Text, TouchableOpacity, View } from 'react-native';
+import { QuoteCard } from '../../components/QuoteCard';
+import { QuoteShareCard } from '../../components/QuoteShareCard';
+import { useFavorites } from '../../hooks/useFavorites';
+import { useQuotes } from '../../hooks/useQuotes';
+import { useShareQuote } from '../../hooks/useShareQuote';
+import { Quote } from '../../types';
 
-import { HelloWave } from '@/components/hello-wave';
-import ParallaxScrollView from '@/components/parallax-scroll-view';
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
-import { Link } from 'expo-router';
+export default function Home() {
+  const { getRandomQuote } = useQuotes();
+  const { toggleFavorite, isFavorite } = useFavorites();
+  const { shareViewRef, sharingQuote, shareQuote, executeCapture } = useShareQuote();
+  const colorScheme = useColorScheme();
+  const [quote, setQuote] = useState<Quote | null>(null);
 
-export default function HomeScreen() {
+  // Animation values
+  const fadeAnim = useRef(new Animated.Value(1)).current;
+  const scaleAnim = useRef(new Animated.Value(1)).current;
+  const rotateAnim = useRef(new Animated.Value(0)).current;
+
+  useEffect(() => {
+    refreshQuote();
+  }, []);
+
+  // When sharingQuote is set, we need to wait a frame for it to render then capture
+  useEffect(() => {
+    if (sharingQuote) {
+      setTimeout(executeCapture, 100);
+    }
+  }, [sharingQuote, executeCapture]);
+
+  const refreshQuote = () => {
+    // Animate out
+    Animated.parallel([
+      Animated.timing(fadeAnim, {
+        toValue: 0,
+        duration: 150,
+        useNativeDriver: true,
+      }),
+      Animated.timing(scaleAnim, {
+        toValue: 0.95,
+        duration: 150,
+        useNativeDriver: true,
+      }),
+    ]).start(() => {
+      // Change quote
+      setQuote(getRandomQuote());
+
+      // Animate in
+      Animated.parallel([
+        Animated.timing(fadeAnim, {
+          toValue: 1,
+          duration: 300,
+          useNativeDriver: true,
+        }),
+        Animated.spring(scaleAnim, {
+          toValue: 1,
+          friction: 8,
+          tension: 40,
+          useNativeDriver: true,
+        }),
+      ]).start();
+    });
+
+    // Rotate refresh button
+    Animated.timing(rotateAnim, {
+      toValue: 1,
+      duration: 400,
+      useNativeDriver: true,
+    }).start(() => {
+      rotateAnim.setValue(0);
+    });
+  };
+
+  const spin = rotateAnim.interpolate({
+    inputRange: [0, 1],
+    outputRange: ['0deg', '360deg'],
+  });
+
+  if (!quote) return null;
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <Link href="/modal">
-          <Link.Trigger>
-            <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-          </Link.Trigger>
-          <Link.Preview />
-          <Link.Menu>
-            <Link.MenuAction title="Action" icon="cube" onPress={() => alert('Action pressed')} />
-            <Link.MenuAction
-              title="Share"
-              icon="square.and.arrow.up"
-              onPress={() => alert('Share pressed')}
-            />
-            <Link.Menu title="More" icon="ellipsis">
-              <Link.MenuAction
-                title="Delete"
-                icon="trash"
-                destructive
-                onPress={() => alert('Delete pressed')}
-              />
-            </Link.Menu>
-          </Link.Menu>
-        </Link>
+    <SafeAreaView className="flex-1 bg-slate-50 dark:bg-zinc-950">
+      <View className="flex-1 justify-center items-center px-2">
+        <Animated.View
+          style={{
+            opacity: fadeAnim,
+            transform: [{ scale: scaleAnim }],
+            width: '100%',
+          }}
+        >
+          <QuoteCard
+            quote={quote}
+            isFavorite={isFavorite(quote.id)}
+            onToggleFavorite={toggleFavorite}
+            onShare={shareQuote}
+            fullHeight={true}
+          />
+        </Animated.View>
 
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+        <TouchableOpacity
+          onPress={refreshQuote}
+          activeOpacity={0.8}
+          className="mt-10 bg-zinc-900 dark:bg-zinc-100 p-5 rounded-full"
+          style={{
+            shadowColor: colorScheme === 'dark' ? '#fff' : '#000',
+            shadowOffset: { width: 0, height: 4 },
+            shadowOpacity: 0.15,
+            shadowRadius: 12,
+            elevation: 6,
+          }}
+        >
+          <Animated.View style={{ transform: [{ rotate: spin }] }}>
+            <RefreshCw size={26} color={colorScheme === 'dark' ? '#18181b' : '#ffffff'} strokeWidth={2.5} />
+          </Animated.View>
+        </TouchableOpacity>
+
+        <Text
+          className="mt-5 text-zinc-400 dark:text-zinc-500 text-xs uppercase tracking-[0.15em]"
+          style={{ fontFamily: 'Inter_400Regular' }}
+        >
+          Toca para otra cita
+        </Text>
+      </View>
+
+      {/* Hidden view for capture */}
+      {sharingQuote && (
+        <View
+          collapsable={false}
+          ref={shareViewRef}
+          style={{ position: 'absolute', left: -9999 }}
+        >
+          <QuoteShareCard quote={sharingQuote} />
+        </View>
+      )}
+    </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
-  },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
-  },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
-  },
-});

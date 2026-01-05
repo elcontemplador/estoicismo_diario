@@ -1,0 +1,5024 @@
+[
+  {
+    "id": 1,
+    "author": "Cleantes",
+    "text": "Lo que se necesita en la vida es serenidad, no lujos innecesarios",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 2,
+    "author": "Crisipo",
+    "text": "El que corre una carrera debe esforzarse y luchar al máximo para salir vencedor; pero es totalmente injusto que haga tropezar a su competidor, o que lo haga a un lado. Así, en la vida no es injusto que uno busque para sí mismo lo que pueda redundar en su beneficio; pero no es correcto quitárselo a otro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 3,
+    "author": "Epicteto",
+    "text": "A cada uno le toca lidiar con lo que le corresponde, y a ti te corresponde lo tuyo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 4,
+    "author": "Epicteto",
+    "text": "A mayor dificultad, mayor gloria al superarla. Los timoneles habilidosos adquieren su fama a través de tormentas y tempestades",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 5,
+    "author": "Epicteto",
+    "text": "A ningún hombre le es posible aprender lo que cree que ya sabe",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 6,
+    "author": "Epicteto",
+    "text": "A quien aspira a la sabiduría no le importa parecer ignorante ante los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 7,
+    "author": "Epicteto",
+    "text": "A tus ojos, lo que posees te parece insuficiente; a los míos, mis posesiones me parecen valiosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 8,
+    "author": "Epicteto",
+    "text": "Acusar a los otros por nuestros fracasos es de ignorantes; no acusar más que a sí mismo es de hombres que comienzan a instruirse; y no acusar ni a sí mismo ni a los otros, es de un hombre ya instruido",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 9,
+    "author": "Epicteto",
+    "text": "Acusar a otros por la propia desgracia es señal de falta de educación. Acusarse a uno mismo muestra que la educación ha comenzado. No acusar ni a uno mismo ni a los demás demuestra que la educación está completa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 10,
+    "author": "Epicteto",
+    "text": "Acuérdate de que eres actor en una obra, de la cual el autor es quien la distribuye. Si quiere que representes un papel corto, lo representas corto; si largo, largo; si de pobre, de pobre; si de cojo, de cojo; si de magistrado, de magistrado. Esto es lo que te toca: representar bien el papel que te han dado; pero elegirlo corresponde a otro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 11,
+    "author": "Epicteto",
+    "text": "Acuérdate de que eres un actor en una obra, de acuerdo con lo que quiera el director: si quiere que sea corta, es corta; si larga, larga; si quiere que interpretes a un mendigo, hazlo tan bien como si te hubiera tocado hacer un rey",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 12,
+    "author": "Epicteto",
+    "text": "Acuérdate de que no son los hechos los que turban a los hombres, sino los juicios que hacen sobre ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 13,
+    "author": "Epicteto",
+    "text": "Adquiere la costumbre de poner a prueba en cada acción lo que has aprendido en tus lecturas y, por otro lado, vuelve a la lectura después de la acción",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 14,
+    "author": "Epicteto",
+    "text": "Aférrate a lo que es espiritualmente superior, sin importar lo que piensen o hagan los demás. Permanece fiel a tus aspiraciones auténticas, independientemente de lo que ocurra en tu entorno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 15,
+    "author": "Epicteto",
+    "text": "Aprendamos primero a soportar nuestros propios males, luego los de los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 16,
+    "author": "Epicteto",
+    "text": "Aprende a querer lo que tienes y no a desear lo que no tienes, y encontrarás la paz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 17,
+    "author": "Epicteto",
+    "text": "Aprende primero qué es lo que no puedes controlar y qué sí",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 18,
+    "author": "Epicteto",
+    "text": "Aprender demasiado no es aprender a ser sabio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 19,
+    "author": "Epicteto",
+    "text": "Aquel que no desea nada de lo que no tiene es tan rico como un hombre satisfecho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 20,
+    "author": "Epicteto",
+    "text": "Cada cosa tiene dos asas, una por la cual se puede llevar y otra por la cual no se puede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 21,
+    "author": "Epicteto",
+    "text": "Cada dificultad debe ser una oportunidad para mostrar cómo pueden ser vencidas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 22,
+    "author": "Epicteto",
+    "text": "Cada hombre es el artífice de su propia fortuna",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 23,
+    "author": "Epicteto",
+    "text": "Cualquier persona capaz de enfurecerte se convierte en tu amo; solo podrá alterarte si tú mismo te dejas perturbar por él",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 24,
+    "author": "Epicteto",
+    "text": "Cualquiera capaz de hacerte enfadar se convierte en tu dueño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 25,
+    "author": "Epicteto",
+    "text": "Cualquiera puede llevar su carga, por pesada que sea, hasta la noche. Cualquiera puede hacer su trabajo, por duro que sea, por un día. Cualquiera puede vivir con dulzura, paciencia, amabilidad al menos un día. iempre se vive, y siempre se ha vivido, y siempre se vivirá, un día a la vez",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 26,
+    "author": "Epicteto",
+    "text": "Cuando acuses a alguien de tu desgracia, es que aún no has empezado a aprender. Cuando te acuses a ti mismo, entonces estás avanzando. Cuando no acuses a nadie, ni a ti mismo, entonces serás sabio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 27,
+    "author": "Epicteto",
+    "text": "Cuando acuses a otros de tus males, tu educación apenas ha comenzado; cuando te acuses a ti mismo, estás avanzando; cuando no acuses ni a ti ni a otros, sabrás que tu educación está completa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 28,
+    "author": "Epicteto",
+    "text": "Cuando algo te moleste, no te preguntes: ¿Qué pasa con esto? sino: ¿Qué pasa conmigo que esto me molesta?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 29,
+    "author": "Epicteto",
+    "text": "Cuando algo te parezca difícil, no pienses que es imposible: piensa más bien que si otro lo ha hecho, tú también puedes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 30,
+    "author": "Epicteto",
+    "text": "Cuando alguien te irrita, has de saber que lo que te irrita no es su acción, sino tu juicio sobre ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 31,
+    "author": "Epicteto",
+    "text": "Cuando alguien te provoca, debes saber que lo que te irrita no es la persona, sino tu juicio sobre ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 32,
+    "author": "Epicteto",
+    "text": "Cuando alguien te provoca, debes saber que tu mente ha sido provocada. Así que no permitas que te arrastre: la culpa no es del otro, sino de tu juicio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 33,
+    "author": "Epicteto",
+    "text": "Cuando alguien te provoca, recuerda que tú también tienes defectos y que quizá te equivocas del mismo modo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 34,
+    "author": "Epicteto",
+    "text": "Cuando alguien te provoque, piensa que lo que te irrita no es lo que esa persona dice o hace, sino tu juicio sobre ello",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 35,
+    "author": "Epicteto",
+    "text": "Cuando el cuervo lanza un graznido de mal agüero, no te dejes arrastrar por tu imaginación. Porque suceda lo que suceda, de ti depende sacar de todo gran provecho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 36,
+    "author": "Epicteto",
+    "text": "Cuando hayas de sentenciar procura olvidar a los litigantes y acordarte sólo de la causa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 37,
+    "author": "Epicteto",
+    "text": "Cuando te insulten, piensa: si lo que dicen es verdad, corrígete; si es mentira, ríete",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 38,
+    "author": "Epicteto",
+    "text": "Cuando te moleste el proceder de alguien, vuelve sobre ti mismo y examina qué faltas tuyas se le parecen",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 39,
+    "author": "Epicteto",
+    "text": "Cuando veas a alguien que se honra a sí mismo por vestirse con elegancia o por hablar con afectación, no seas tú quien se burle de él, sino quien recuerda: ‘Éste es esclavo de la opinión de los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 40,
+    "author": "Epicteto",
+    "text": "Cuanto mayor es la dificultad, mayor es la gloria en superarla. Los pilotos hábiles obtienen su reputación de las tormentas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 41,
+    "author": "Epicteto",
+    "text": "Cuida este momento. Sumérgete en sus detalles. Responde a esta persona, este desafío, esta acción. Deja de evadir. Deja de causarte problemas innecesarios. Es hora de vivir de verdad; de habitar plenamente la situación en la que te encuentras ahora",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 42,
+    "author": "Epicteto",
+    "text": "Culpar a otros por la propia desgracia es señal de falta de educación.  Culparse a uno mismo muestra que la educación ha comenzado.  No culpar ni a uno mismo ni a otros demuestra que la educación ha culminado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 43,
+    "author": "Epicteto",
+    "text": "De las cosas, unas dependen de nosotros y otras no. De nosotros dependen la opinión, la tendencia, el deseo, la aversión; en una palabra: nuestras acciones. No dependen de nosotros el cuerpo, la riqueza, la reputación ni los cargos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 44,
+    "author": "Epicteto",
+    "text": "De las cosas, unas dependen de nosotros y otras no. Dependen de nosotros la opinión, el impulso, el deseo, la aversión; en una palabra, todo lo que es obra nuestra. No dependen de nosotros el cuerpo, las riquezas, la reputación, los cargos; en una palabra, todo lo que no es obra nuestra",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 45,
+    "author": "Epicteto",
+    "text": "De no hablar sino cuando fuere preciso, raramente despegaríamos los labios",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 46,
+    "author": "Epicteto",
+    "text": "Debemos rehuir la amistad de los malos y la enemistad de los buenos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 47,
+    "author": "Epicteto",
+    "text": "Deberíamos vivir nuestras vidas como si estuviéramos abandonando la vida cada día",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 48,
+    "author": "Epicteto",
+    "text": "Demuestra con tus actos que no eres un mero hablador o que tus actos no se contradicen a tus palabras",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 49,
+    "author": "Epicteto",
+    "text": "Desde este instante, pues, elige actuar como la persona digna y capaz que eres. Sigue inquebrantablemente lo que la razón te dice que es el mejor camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 50,
+    "author": "Epicteto",
+    "text": "Detén las excusas y la procrastinación. ¡Esta es tu vida! Ya no eres un niño. Cuanto antes comiences con tu formación espiritual, más feliz serás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 51,
+    "author": "Epicteto",
+    "text": "Donde hay deseo y aversión, ahí hay esclavitud; donde hay ausencia de deseo y aversión, ahí hay libertad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 52,
+    "author": "Epicteto",
+    "text": "El alma se adapta a lo que habitualmente hace; se vuelve noble por los actos nobles y miserable por los viles",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 53,
+    "author": "Epicteto",
+    "text": "El arte de la vida consiste en soportar la pérdida de lo que no podemos conservar y en aceptar lo que no podemos cambiar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 54,
+    "author": "Epicteto",
+    "text": "El conocimiento se convierte en verdadera sabiduría solo cuando es vivido",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 55,
+    "author": "Epicteto",
+    "text": "El deseo y el miedo son las cadenas del alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 56,
+    "author": "Epicteto",
+    "text": "El deseo y la felicidad no pueden vivir juntos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 57,
+    "author": "Epicteto",
+    "text": "El error del anciano es que pretende enjuiciar el hoy con el criterio del ayer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 58,
+    "author": "Epicteto",
+    "text": "El hombre cuerdo espera de los malvados recibir mucho más daño que el que recibe",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 59,
+    "author": "Epicteto",
+    "text": "El hombre no está preocupado tanto por los problemas reales como por sus ansiedades imaginadas sobre los problemas reales",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 60,
+    "author": "Epicteto",
+    "text": "El hombre que ha aprendido a vivir con su naturaleza es libre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 61,
+    "author": "Epicteto",
+    "text": "El hombre sabio no culpa ni a los dioses ni a los hombres; todo lo atribuye a sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 62,
+    "author": "Epicteto",
+    "text": "El hombre sabio no se aflige por lo que no tiene, sino que se alegra por lo que tiene",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 63,
+    "author": "Epicteto",
+    "text": "El hombre sabio no se deja exaltar en la prosperidad, ni se deja abatir en la adversidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 64,
+    "author": "Epicteto",
+    "text": "El hombre sabio no se lamenta por lo que no puede controlar, sino que encuentra libertad en lo que sí puede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 65,
+    "author": "Epicteto",
+    "text": "El mayor de los males es no haber aprendido a soportar el mal",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 66,
+    "author": "Epicteto",
+    "text": "El mayor mal que puede sobrevenir al hombre es que llegue a pensar mal de sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 67,
+    "author": "Epicteto",
+    "text": "El primer paso hacia la libertad es darse cuenta de que somos esclavos de muchas cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 68,
+    "author": "Epicteto",
+    "text": "El principio más importante en la vida es distinguir lo que depende de nosotros de lo que no depende de nosotros",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 69,
+    "author": "Epicteto",
+    "text": "El progreso no consiste en mejorar lo externo, sino en mejorar uno mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 70,
+    "author": "Epicteto",
+    "text": "El que quiera ser libre, no desee ni huya de nada que dependa de otros: de lo contrario, será un esclavo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 71,
+    "author": "Epicteto",
+    "text": "El que quiere ser libre no debe desear nada ni temer nada de lo que dependa de otros; si no lo hace, será necesariamente esclavo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 72,
+    "author": "Epicteto",
+    "text": "El que se enfada o se irrita por algo, está realmente enfadado e irritado por su propio juicio acerca de ese algo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 73,
+    "author": "Epicteto",
+    "text": "El secreto de la felicidad es la libertad, y el secreto de la libertad es el coraje",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 74,
+    "author": "Epicteto",
+    "text": "El silencio es seguro y nunca daña",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 75,
+    "author": "Epicteto",
+    "text": "El silencio es un amigo que nunca traiciona",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 76,
+    "author": "Epicteto",
+    "text": "En cada cosa que emprendas, detente y pregúntate: ‘¿Qué me exigirá esto?’ Y si no estás dispuesto a soportarlo, no lo hagas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 77,
+    "author": "Epicteto",
+    "text": "En la prosperidad es muy fácil encontrar amigos, en la adversidad no hay nada más difícil",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 78,
+    "author": "Epicteto",
+    "text": "En la vida, no es necesario eliminar los obstáculos, sino aprender a superarlos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 79,
+    "author": "Epicteto",
+    "text": "En las desgracias propias hay que acordarse del estado de conformidad con que miramos las ajenas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 80,
+    "author": "Epicteto",
+    "text": "Es imposible aprender lo que crees que ya sabes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 81,
+    "author": "Epicteto",
+    "text": "Es imposible aprender lo que uno ya cree saber",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 82,
+    "author": "Epicteto",
+    "text": "Es imposible para un hombre aprender lo que cree que ya sabe",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 83,
+    "author": "Epicteto",
+    "text": "Es imposible que un hombre aprenda lo que cree que ya sabe",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 84,
+    "author": "Epicteto",
+    "text": "Es la naturaleza de cada cosa la que determina lo que ella es, no nuestras opiniones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 85,
+    "author": "Epicteto",
+    "text": "Es mejor morir de hambre habiendo vivido sin dolor y miedo, que vivir con un espíritu atribulado, en medio de la abundancia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 86,
+    "author": "Epicteto",
+    "text": "Es sabio el hombre que no se lamenta por las cosas que no tiene, sino que se regocija por aquellas que tiene",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 87,
+    "author": "Epicteto",
+    "text": "Es un hombre sabio quien no se aflige por las cosas que no tiene, sino que se regocija por las que tiene",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 88,
+    "author": "Epicteto",
+    "text": "Esfuérzate por no dejarte llevar por las impresiones; una vez ganes tiempo, serás más fácilmente dueño de ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 89,
+    "author": "Epicteto",
+    "text": "Exígete mucho a ti mismo y espera poco de los demás Así te ahorrarás disgustos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 90,
+    "author": "Epicteto",
+    "text": "Hay solo un camino hacia la felicidad, deja que esta regla esté a mano mañana, mediodía y noche, mantente alejado de las cosas que no dependen de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 91,
+    "author": "Epicteto",
+    "text": "Hay un solo camino a la felicidad, y es dejar de preocuparse por cosas que están más allá del poder de nuestra voluntad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 92,
+    "author": "Epicteto",
+    "text": "Hay un tiempo y lugar para la diversión y los entretenimientos, pero nunca debes permitir que estos sobrepasen tu verdadero propósito",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 93,
+    "author": "Epicteto",
+    "text": "La adversidad no es una desgracia, antes bien, el sufrirla con grandeza de ánimo es una dicha",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 94,
+    "author": "Epicteto",
+    "text": "La causa de la perturbación no está en los acontecimientos, sino en la opinión que tenemos sobre ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 95,
+    "author": "Epicteto",
+    "text": "La clave es estar en compañía sólo de personas que te eleven, cuya presencia suscite lo mejor de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 96,
+    "author": "Epicteto",
+    "text": "La clave está en relacionarte solo con personas que te elevan,",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 97,
+    "author": "Epicteto",
+    "text": "La clave está en transformar nuestras reacciones y ver las cosas como realmente son",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 98,
+    "author": "Epicteto",
+    "text": "La cosa más difícil es conocernos a nosotros mismos. La más fácil, hablar mal de los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 99,
+    "author": "Epicteto",
+    "text": "La enfermedad es un impedimento para el cuerpo, pero no para la voluntad, si no lo consentimos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 100,
+    "author": "Epicteto",
+    "text": "La envidia es el adversario de los más afortunados",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 101,
+    "author": "Epicteto",
+    "text": "La esencia de la filosofía es que una persona debe vivir de tal manera que su felicidad dependa lo menos posible de las cosas externas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 102,
+    "author": "Epicteto",
+    "text": "La felicidad consiste en ser libre, es decir, en no desear nada",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 103,
+    "author": "Epicteto",
+    "text": "La felicidad y la libertad comienzan con la clara comprensión de un principio: algunas cosas están bajo nuestro control y otras no",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 104,
+    "author": "Epicteto",
+    "text": "La felicidad y la libertad comienzan con un claro entendimiento de un principio: algunas cosas están bajo nuestro control y otras no",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 105,
+    "author": "Epicteto",
+    "text": "La filosofía no promete asegurar nada externo, sino moldear el alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 106,
+    "author": "Epicteto",
+    "text": "La libertad es el único bien digno de ser buscado en la vida; se obtiene cuando despreciamos lo que no depende de nosotros",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 107,
+    "author": "Epicteto",
+    "text": "La libertad es el único objetivo valioso en la vida. Se logra al ignorar las cosas que están más allá de nuestro control",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 108,
+    "author": "Epicteto",
+    "text": "La libertad no es alcanzada al lograr tu deseo, sino al eliminarlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 109,
+    "author": "Epicteto",
+    "text": "La libertad no es alcanzada al satisfacer el deseo, sino al eliminarlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 110,
+    "author": "Epicteto",
+    "text": "La libertad no es alcanzada por la satisfacción de los deseos, sino por la eliminación de los deseos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 111,
+    "author": "Epicteto",
+    "text": "La libertad no se alcanza luchando contra los demás, sino venciendo a uno mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 112,
+    "author": "Epicteto",
+    "text": "La libertad no se consigue satisfaciendo el deseo, sino eliminándolo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 113,
+    "author": "Epicteto",
+    "text": "La libertad no se encuentra en el cambio de una situación externa, sino en la transformación de la mente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 114,
+    "author": "Epicteto",
+    "text": "La libertad no se encuentra en la posesión de cosas, sino en la capacidad de resistir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 115,
+    "author": "Epicteto",
+    "text": "La libertad se alcanza no satisfaciendo los deseos, sino eliminándolos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 116,
+    "author": "Epicteto",
+    "text": "La muerte no es nada temible, pero vivir temiendo la muerte es temible en sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 117,
+    "author": "Epicteto",
+    "text": "La naturaleza ha dado a los hombres una lengua pero dos oídos, para que podamos escuchar de los demás el doble de lo que hablamos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 118,
+    "author": "Epicteto",
+    "text": "La naturaleza nos ha dotado de una boca pero de dos oídos, con el propósito de que oigamos mucho más de lo que decimos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 119,
+    "author": "Epicteto",
+    "text": "La primera y más necesaria área de estudio en filosofía es la que se ocupa de la aplicación de los principios, por ejemplo: no mentir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 120,
+    "author": "Epicteto",
+    "text": "La riqueza no consiste en tener muchas posesiones, sino en tener pocas necesidades",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 121,
+    "author": "Epicteto",
+    "text": "La tranquilidad y la serenidad son el resultado de no juzgar nada como bueno o malo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 122,
+    "author": "Epicteto",
+    "text": "La verdad triunfa por sí misma, la mentira necesita siempre complicidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 123,
+    "author": "Epicteto",
+    "text": "La verdadera educación consiste en reconocer la ignorancia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 124,
+    "author": "Epicteto",
+    "text": "Las circunstancias no crean al hombre, solo lo revelan",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 125,
+    "author": "Epicteto",
+    "text": "Las circunstancias no hacen al hombre, sólo lo revelan",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 126,
+    "author": "Epicteto",
+    "text": "Las circunstancias no se ajustan para cumplir nuestras expectativas. Los acontecimientos ocurren tal como suceden. Las personas se comportan como son. Acepta lo que realmente te llega",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 127,
+    "author": "Epicteto",
+    "text": "Las opiniones y problemas de otras personas pueden ser contagiosos. No te sabotees a ti mismo adoptando inconscientemente actitudes negativas e improductivas a través de tus relaciones con los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 128,
+    "author": "Epicteto",
+    "text": "Las ovejas no vomitan la hierba para mostrarle al pastor cuánto han comido; después de digerir la hierba en su interior, producen lana y leche en el exterior. Así que para ti también: no muestres tu conocimiento a los no instruidos: muestra las acciones que resultan de la digestión del mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 129,
+    "author": "Epicteto",
+    "text": "Las personas son perturbadas no por las cosas, sino por las opiniones sobre las cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 130,
+    "author": "Epicteto",
+    "text": "Lo que perturba al hombre no son las cosas, sino las opiniones que tiene sobre ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 131,
+    "author": "Epicteto",
+    "text": "Lo que realmente nos asusta no son los eventos externos, sino la forma en que pensamos acerca de ellos. No son las cosas las que nos perturban, sino nuestra interpretación de su significado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 132,
+    "author": "Epicteto",
+    "text": "Lo que turba al ser humano no son los acontecimientos, sino la interpretación que hace de ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 133,
+    "author": "Epicteto",
+    "text": "Los acontecimientos no te afectan, sino tu juicio acerca de ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 134,
+    "author": "Epicteto",
+    "text": "Los cuervos arrancan los ojos a los muertos cuando ya no les hacen falta; pero los aduladores destruyen las almas de los vivos cegándoles los ojos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 135,
+    "author": "Epicteto",
+    "text": "Los hombres no están perturbados por los acontecimientos, sino por sus opiniones sobre los acontecimientos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 136,
+    "author": "Epicteto",
+    "text": "Los hombres se ven perturbados no por las cosas, sino por las opiniones sobre las cosas. Como la muerte, que no es nada terrible, sino que la opinión sobre la muerte, la de que es algo terrible, eso es lo terrible",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 137,
+    "author": "Epicteto",
+    "text": "Los hombres son perturbados, no por las cosas, sino por los principios y nociones que forman acerca de las cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 138,
+    "author": "Epicteto",
+    "text": "Los hábitos contraídos no se corrigen sino con hábitos opuestos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 139,
+    "author": "Epicteto",
+    "text": "Los que están bien constituidos en el cuerpo soportan tanto el calor como el frío: y así los que están bien constituidos en el alma soportan tanto la ira como la pena y la alegría excesiva y los otros afectos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 140,
+    "author": "Epicteto",
+    "text": "Nada es más importante que el uso correcto de nuestro propio juicio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 141,
+    "author": "Epicteto",
+    "text": "Nada grande se crea de repente, cualquier cosa, desde un racimo de uvas hasta una higuera, necesita tiempo para madurar y crecer, y no es diferente para el desarrollo del carácter y la virtud humana",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 142,
+    "author": "Epicteto",
+    "text": "Nada grande se crea de repente, del mismo modo que una higuera no da fruto de la noche a la mañana",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 143,
+    "author": "Epicteto",
+    "text": "Nadie es libre si no es dueño de sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 144,
+    "author": "Epicteto",
+    "text": "Nadie que ama el dinero, y ama el placer, y ama la gloria, puede amar también la libertad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 145,
+    "author": "Epicteto",
+    "text": "Ningún hombre es libre a menos que sea dueño de sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 146,
+    "author": "Epicteto",
+    "text": "Ningún hombre es libre si no es dueño de sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 147,
+    "author": "Epicteto",
+    "text": "Ningún hombre es libre si no puede dominarse a sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 148,
+    "author": "Epicteto",
+    "text": "No basta con desear la sabiduría, es necesario trabajar para alcanzarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 149,
+    "author": "Epicteto",
+    "text": "No busques la riqueza exterior, sino el ánimo que permanezca invicto en la pobreza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 150,
+    "author": "Epicteto",
+    "text": "No busques lo bueno en las cosas externas; búscalo en ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 151,
+    "author": "Epicteto",
+    "text": "No busques que las cosas ocurran como tú quieres, sino desea que ocurran como ocurren, y vivirás sereno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 152,
+    "author": "Epicteto",
+    "text": "No busques que los acontecimientos sucedan como quieres, sino quiere los acontecimientos tal como suceden, y tu vida fluirá serenamente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 153,
+    "author": "Epicteto",
+    "text": "No busques que los acontecimientos sucedan como tú quieres, sino desea que sucedan como suceden, y tu vida transcurrirá en paz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 154,
+    "author": "Epicteto",
+    "text": "No busques que los acontecimientos sucedan como tú quieres; desea más bien que sucedan como suceden, y serás feliz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 155,
+    "author": "Epicteto",
+    "text": "No busquéis el bien en las cosas externas; buscadlo en vosotros mismos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 156,
+    "author": "Epicteto",
+    "text": "No debemos sujetar nuestra nave con una sola ancla ni nuestra vida con una sola esperanza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 157,
+    "author": "Epicteto",
+    "text": "No debo ser insensible como una estatua; debo ocuparme de mis relaciones, tanto naturales como adquiridas, en mi papel de hombre piadoso, hijo, hermano, padre, ciudadano",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 158,
+    "author": "Epicteto",
+    "text": "No desees que las cosas ocurran como quieres, acepta que ocurran como ocurren: esa es la ruta hacia la paz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 159,
+    "author": "Epicteto",
+    "text": "No digas nunca sobre nada: ‘Lo he perdido’, sino: ‘Lo he devuelto’. ¿Te ha muerto tu hijo? Ha sido devuelto. ¿Ha muerto tu esposa? Ha sido devuelta. ¿Te han quitado tus bienes? También eso ha sido devuelto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 160,
+    "author": "Epicteto",
+    "text": "No enseñes tus principios como si fueras un maestro, sino vívelos como quien ha aprendido de verdad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 161,
+    "author": "Epicteto",
+    "text": "No eres una vasija vacía que debe ser llenada, sino una lámpara que debe encenderse",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 162,
+    "author": "Epicteto",
+    "text": "No es la enseñanza en sí la que hace buenos o malos a los hombres, sino la capacidad de atender a lo que se les enseña",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 163,
+    "author": "Epicteto",
+    "text": "No es la fuerza, sino la perseverancia con un alto propósito lo que consigue grandes cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 164,
+    "author": "Epicteto",
+    "text": "No es la fuerza, sino la perseverancia la que consigue grandes cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 165,
+    "author": "Epicteto",
+    "text": "No es la muerte o el dolor lo que debe temerse, sino el miedo a la muerte o al dolor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 166,
+    "author": "Epicteto",
+    "text": "No es libre quien es esclavo de sus placeres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 167,
+    "author": "Epicteto",
+    "text": "No es lo que las cosas son objetivamente y en sí mismas, sino lo que son para nosotros, en nuestra forma de verlas, lo que nos hace felices o infelices",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 168,
+    "author": "Epicteto",
+    "text": "No es lo que nos sucede lo que nos define, sino cómo reaccionamos ante ello",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 169,
+    "author": "Epicteto",
+    "text": "No es lo que te ocurre, sino cómo reaccionas a ello lo que importa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 170,
+    "author": "Epicteto",
+    "text": "No es lo que te sucede lo que determina tu felicidad, sino cómo reaccionas a ello",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 171,
+    "author": "Epicteto",
+    "text": "No es lo que te sucede, sino cómo reaccionas ante ello lo que importa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 172,
+    "author": "Epicteto",
+    "text": "No esperes que los acontecimientos ocurran como tú quieres. Desea, más bien, que se produzcan tal como se producen, y serás feliz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 173,
+    "author": "Epicteto",
+    "text": "No esperes que los acontecimientos se ajusten a tus deseos, ajusta tus deseos a los acontecimientos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 174,
+    "author": "Epicteto",
+    "text": "No esperes que los eventos sucedan como tú quieres. Desea que sucedan como suceden y serás feliz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 175,
+    "author": "Epicteto",
+    "text": "No expliques tu filosofía. Encárnala",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 176,
+    "author": "Epicteto",
+    "text": "No ganes tu comida comiendo lo que pertenece a otros, gánalo ayudando a los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 177,
+    "author": "Epicteto",
+    "text": "No hay que tener miedo de la pobreza, ni del destierro ni de la cárcel, ni de la muerte... De lo que hay que tener miedo es del propio miedo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 178,
+    "author": "Epicteto",
+    "text": "No insistas en que lo que sucede debe suceder como deseas; desea que las cosas sucedan como realmente suceden. Entonces, tu vida irá bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 179,
+    "author": "Epicteto",
+    "text": "No intentes que todo ocurra como lo deseas, desea que suceda tal como ocurre y estarás tranquilo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 180,
+    "author": "Epicteto",
+    "text": "No intentes tenerlo todo. Decide lo que quieres más y persíguelo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 181,
+    "author": "Epicteto",
+    "text": "No pidas que las cosas ocurran como tú las deseas, sino deséalas tal como lleguen, y así el curso de tu vida será feliz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 182,
+    "author": "Epicteto",
+    "text": "No podemos elegir nuestras circunstancias externas, pero siempre podemos elegir cómo respondemos a ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 183,
+    "author": "Epicteto",
+    "text": "No podemos evitar el cometer errores, pero sí podemos poner constantemente atención para tratar de evitarlos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 184,
+    "author": "Epicteto",
+    "text": "No pretendas que las cosas ocurran como deseas, sino desea que ocurran como ocurren, y llevarás una vida serena",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 185,
+    "author": "Epicteto",
+    "text": "No pretendas que las cosas ocurran como tú deseas; desea, más bien, que ocurran tal como ocurren, y así todo te irá bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 186,
+    "author": "Epicteto",
+    "text": "No pretendas que las cosas sean como las deseas. Deséalas como son",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 187,
+    "author": "Epicteto",
+    "text": "No pretendas que las cosas sucedan como tú quieres; desea, más bien, que sucedan como suceden, y serás feliz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 188,
+    "author": "Epicteto",
+    "text": "No pretendas que los acontecimientos sucedan como deseas; desea más bien que ocurran como ocurren, y tu vida transcurrirá serena",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 189,
+    "author": "Epicteto",
+    "text": "No se debe depender de una sola esperanza, así como un barco no debe confiar solo en un ancla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 190,
+    "author": "Epicteto",
+    "text": "No se llega a campeón sin sudar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 191,
+    "author": "Epicteto",
+    "text": "No son las cosas las que nos inquietan, sino la opinión que tenemos de ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 192,
+    "author": "Epicteto",
+    "text": "No son las cosas las que nos perturban, sino las opiniones que tenemos sobre ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 193,
+    "author": "Epicteto",
+    "text": "No son las cosas las que nos perturban, sino nuestras interpretaciones de las cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 194,
+    "author": "Epicteto",
+    "text": "No son las cosas las que perturban a las personas, sino sus juicios sobre las cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 195,
+    "author": "Epicteto",
+    "text": "No son las cosas las que perturban a los hombres, sino los juicios que hacen sobre las cosas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 196,
+    "author": "Epicteto",
+    "text": "No te angusties imaginando toda tu vida a la vez. No pienses siempre en qué sufrimientos, y cuántos, podrían posiblemente sobrevenirte. Pregúntate, en cambio, en cada circunstancia presente: \"¿Qué hay en esto que sea insoportable?\" Te avergonzarás de responder",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 197,
+    "author": "Epicteto",
+    "text": "No te jactes de dominar tus pasiones si estás en calma: el verdadero examen llega cuando alguien te provoca",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 198,
+    "author": "Epicteto",
+    "text": "No te jactes de ningún logro que no dependa de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 199,
+    "author": "Epicteto",
+    "text": "No te llames filósofo, y no hables mucho entre los ignorantes de la sabiduría sobre principios filosóficos, sino actúa de acuerdo con ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 200,
+    "author": "Epicteto",
+    "text": "No te preocupes por ser considerado ignorante por los demás. Preocúpate solo de serlo ante ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 201,
+    "author": "Epicteto",
+    "text": "No te preocupes si los demás hablan mal de ti; preocúpate más bien de no hacer nada que merezca esa mala opinión",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 202,
+    "author": "Epicteto",
+    "text": "No trates de parecer sabio ante los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 203,
+    "author": "Epicteto",
+    "text": "No trates de parecer sabio ante los demás. Si quieres vivir una vida sabia, vívela según tus propios términos y a tus propios ojos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 204,
+    "author": "Epicteto",
+    "text": "Nunca digas de algo, 'lo he perdido', sino 'lo he devuelto'",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 205,
+    "author": "Epicteto",
+    "text": "Otro no te ofenderá, ni te herirá nunca, si tú no lo deseas, no serás herido sino cuando tú creas serlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 206,
+    "author": "Epicteto",
+    "text": "Para engrandecer a tu pueblo no has de elevar los tejados de sus viviendas, sino las almas de sus habitantes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 207,
+    "author": "Epicteto",
+    "text": "Para juzgar si un hombre es libre no te pares a mirar su cargo, porque, al contrario, más esclavo es cuando más elevado cargo desempeña",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 208,
+    "author": "Epicteto",
+    "text": "Por esto perdí mi lámpara: porque un ladrón fue mejor que yo para mantenerse despierto. Pero adquirió la lámpara a un alto precio. A cambio, se convirtió en ladrón, en alguien de no fiar, en un animal. ¡Y aún así, le pareció un buen negocio!",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 209,
+    "author": "Epicteto",
+    "text": "Prefiere la satisfacción duradera a la gratificación inmediata",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 210,
+    "author": "Epicteto",
+    "text": "Presta atención a tus impresiones, vigílalas sin dormir, porque lo que guardas no es poca cosa: el respeto por ti mismo, la fidelidad y el autocontrol, una mente libre de emociones, dolor, miedo, perturbación; en una palabra, libertad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 211,
+    "author": "Epicteto",
+    "text": "Primero aprende el significado de lo que dices, y luego habla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 212,
+    "author": "Epicteto",
+    "text": "Primero establece quién quieres ser; y luego haz lo que tengas que hacer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 213,
+    "author": "Epicteto",
+    "text": "Primero, di a ti mismo qué serás; y luego haz lo que tienes que hacer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 214,
+    "author": "Epicteto",
+    "text": "Procura no parecer filósofo, sino serlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 215,
+    "author": "Epicteto",
+    "text": "Procura no tener miedo a la muerte, sino a no comenzar nunca a vivir según la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 216,
+    "author": "Epicteto",
+    "text": "Procura tener presente que lo que da valor a cualquier cosa no es el hecho en sí, sino el juicio que hacemos al respecto. Y ese juicio está en tu poder",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 217,
+    "author": "Epicteto",
+    "text": "Que la muerte, el exilio y todo lo que parezca temible estén siempre presentes ante tus ojos, pero sobre todo la muerte; así, nunca albergarás pensamientos mezquinos ni desearás algo en exceso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 218,
+    "author": "Epicteto",
+    "text": "Quien desea conservar su libertad debe aprender a despreciar las cosas que no dependen de él",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 219,
+    "author": "Epicteto",
+    "text": "Quien sabe reirse de sí mismo nunca se queda sin motivos para reír",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 220,
+    "author": "Epicteto",
+    "text": "Quien sufre antes de que sea necesario, sufre más de lo necesario",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 221,
+    "author": "Epicteto",
+    "text": "Qué es entonces propio de un filósofo? No culpar a nadie, no alabar a nadie, no acusar a nadie, no decir de sí mismo que es algo o sabe algo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 222,
+    "author": "Epicteto",
+    "text": "Recuerda que actúas en una obra según lo que el autor decida. Sea breve o larga, tu deber es encarnar con fidelidad el personaje asignado, ya sea mendigo, discapacitado, soberano o ciudadano común. Tu obligación es ofrecer una interpretación destacada de tu rol. La selección del personaje es responsabilidad de otro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 223,
+    "author": "Epicteto",
+    "text": "Recuerda que no eres más que un actor en una obra, la que el autor quiera: si es corta, que sea corta; si larga, que sea larga. Si te asigna el papel de pobre, hazlo bien; si el de cojo, de gobernante o de un ciudadano común, hazlo también con destreza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 224,
+    "author": "Epicteto",
+    "text": "Recuerda que no eres responsable de los eventos externos que te suceden, pero sí de cómo los juzgas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 225,
+    "author": "Epicteto",
+    "text": "Recuerda que no puedes ser insultado sin tu consentimiento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 226,
+    "author": "Epicteto",
+    "text": "Recuerda, no es suficiente ser golpeado o insultado para ser dañado, debes creer que estás siendo dañado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 227,
+    "author": "Epicteto",
+    "text": "Reflexiona mucho antes de decir o hacer algo, porque no podréis remediarlo después de dicho o hecho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 228,
+    "author": "Epicteto",
+    "text": "Requiere mucho de ti mismo y espera poco de los demás, de esta manera evitarás muchas decepciones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 229,
+    "author": "Epicteto",
+    "text": "Si alguien habla mal de ti, no te defiendas contra lo que se dijo, sino responde: \"Evidentemente no sabía de mis otros defectos, de lo contrario no habría mencionado sólo estos\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 230,
+    "author": "Epicteto",
+    "text": "Si alguien habla mal de ti, no te defiendas; di simplemente: \"Él ignora mis otras faltas, si no habría dicho más\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 231,
+    "author": "Epicteto",
+    "text": "Si alguien te dice que cierta persona habla mal de ti, no pongas excusas sobre lo que se dice de ti, sino responde: \"Ignora mis otras faltas, de lo contrario no habría mencionado sólo éstas\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 232,
+    "author": "Epicteto",
+    "text": "Si alguien te dice que cierta persona habla mal de ti, no pongas excusas sobre lo que se dice de ti, sino responde: esa persona desconocía mis otros defectos, de lo contrario no habría mencionado solo estos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 233,
+    "author": "Epicteto",
+    "text": "Si alguien te dice que cierta persona habla mal de ti, no te justifiques, sino responde: ‘Evidentemente no conoce bien mis otros defectos, si no habría dicho más cosas’",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 234,
+    "author": "Epicteto",
+    "text": "Si alguien te entrega un espejo y ves que tu rostro está sucio, no te enfadas con el espejo: lo mismo debes hacer con un maestro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 235,
+    "author": "Epicteto",
+    "text": "Si ansías cosas externas, inevitablemente serás forzado a subir y bajar según la voluntad de tu amo. ¿Y quién es tu amo? El que tiene poder sobre las cosas que intentas obtener o evitar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 236,
+    "author": "Epicteto",
+    "text": "Si deseas no enojarte fácilmente, no nutras tu hábito. Como primer paso, mantén la calma y cuenta los días en los que no te enojaste. \"Solía enojarme todos los días, luego cada dos días, después cada cuatro\" Si logras abstenerse durante treinta días, ofrécele un sacrificio a Dios. El hábito se debilita primero, luego se destruye completamente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 237,
+    "author": "Epicteto",
+    "text": "Si deseas ser libre, no desees nada que dependa de otro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 238,
+    "author": "Epicteto",
+    "text": "Si deseas ser sabio, prepárate desde ahora a ser ridiculizado, a ser odiado, a ser objeto de burlas. Pero si perseveras, los mismos que hoy te ofenden, acabarán por admirarte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 239,
+    "author": "Epicteto",
+    "text": "Si estás afligido por cualquier aparente miseria externa, no es eso lo que te perturba, sino el juicio que haces de ello. Y eso tienes poder para revocarlo ahora mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 240,
+    "author": "Epicteto",
+    "text": "Si hablan mal de ti con fundamento, corrígete; de lo contrario, échate a reír",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 241,
+    "author": "Epicteto",
+    "text": "Si la virtud ofrece promesas de prosperidad, tranquilidad de espíritu y dicha, el camino hacia la virtud es, ciertamente, también el camino hacia estas bendiciones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 242,
+    "author": "Epicteto",
+    "text": "Si no sabes a dónde vas, cualquier camino te llevará allí",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 243,
+    "author": "Epicteto",
+    "text": "Si quieres mejorar, acepta con tranquilidad si te perciben como un ignorante o un insensato en asuntos externos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 244,
+    "author": "Epicteto",
+    "text": "Si quieres mejorar, rechaza ser un prisionero de las pasiones y sigue a la razón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 245,
+    "author": "Epicteto",
+    "text": "Si quieres mejorar, sé consciente de lo que estás haciendo mal",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 246,
+    "author": "Epicteto",
+    "text": "Si quieres ser bueno, primero cree que eres malo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 247,
+    "author": "Epicteto",
+    "text": "Si quieres ser feliz, no permitas que nada te desvíe de tu camino hacia la sabiduría y la virtud",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 248,
+    "author": "Epicteto",
+    "text": "Si quieres ser invencible, no entres en ninguna lucha en la que no dependa de ti la victoria",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 249,
+    "author": "Epicteto",
+    "text": "Si quieres ser sabio, acostúmbrate a considerar las cosas como son, no como deseas que sean",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 250,
+    "author": "Epicteto",
+    "text": "Si se dice algo malo de ti y es verdad, corrígete; si es mentira, ríete de ello",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 251,
+    "author": "Epicteto",
+    "text": "Sigue tus principios como si fueran leyes. No te preocupes si los demás te critican o se ríen de ti, porque sus opiniones no te conciernen",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 252,
+    "author": "Epicteto",
+    "text": "Solo hay un camino hacia la felicidad: dejar de preocuparse por cosas que están fuera de nuestro control",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 253,
+    "author": "Epicteto",
+    "text": "Solo los educados son libres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 254,
+    "author": "Epicteto",
+    "text": "Solo progresa el que tiene la mente ocupada en el progreso y cuyo fervor en pos de la verdad permanece inalterado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 255,
+    "author": "Epicteto",
+    "text": "Sé selectivo acerca de qué imágenes e ideas permites entrar en tu mente. Si tú mismo no eliges a qué pensamientos e imágenes te expones, alguien más lo hará, y sus motivos pueden no ser los más elevados",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 256,
+    "author": "Epicteto",
+    "text": "Sólo hay un camino hacia la felicidad: ten presente esta regla mañana, tarde y noche: mantente desapegado de las cosas que no dependen de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 257,
+    "author": "Epicteto",
+    "text": "Sólo los instruidos son libres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 258,
+    "author": "Epicteto",
+    "text": "Te conviertes en aquello a lo que le prestas tu atención",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 259,
+    "author": "Epicteto",
+    "text": "Todas las cosas externas que nos suceden son indiferentes; sólo nuestras actitudes y juicios sobre ellas son importantes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 260,
+    "author": "Epicteto",
+    "text": "Todas las cosas externas son indiferentes para mí; no tengo ningún control sobre ellas, por lo tanto, no son ni buenas ni malas para mí",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 261,
+    "author": "Epicteto",
+    "text": "Todo lo que ves cambiará en un momento y ya no existirá. Intenta entender cómo llegó a existir; esta esencia, y también la esencia de destrucción",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 262,
+    "author": "Epicteto",
+    "text": "Un barco no debería depender de un solo ancla, ni la vida de una sola esperanza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 263,
+    "author": "Epicteto",
+    "text": "Un error no se convierte en un error hasta que te niegas a corregirlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 264,
+    "author": "Epicteto",
+    "text": "Un estoico, esto es, un hombre que en la enfermedad se crea dichoso, que en el peligro se crea dichoso, que en un destierro se crea dichoso, que despreciado y calumniado se crea dichoso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 265,
+    "author": "Epicteto",
+    "text": "Un hombre sabio no se deja deslumbrar por los regalos, ni se deprime por las pérdidas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 266,
+    "author": "Epicteto",
+    "text": "Vela por tus pensamientos cuando estés solo y por tus palabras cuando estés con los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 267,
+    "author": "Epicteto",
+    "text": "¿Amas tu cuerpo? Pues recuerda que eres su inquilino, no su dueño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 268,
+    "author": "Epicteto",
+    "text": "¿Cuánto tiempo más vas a esperar antes de demandar lo mejor de ti mismo?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 269,
+    "author": "Epicteto",
+    "text": "¿De qué sirve discutir sobre cuál es el bien, si nunca lo pones en práctica?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 270,
+    "author": "Epicteto",
+    "text": "¿Por qué no preferir la pérdida de dinero antes que la pérdida de la tranquilidad?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 271,
+    "author": "Epicteto",
+    "text": "¿Quieres no ser vencido nunca? No luches contra lo que no depende de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 272,
+    "author": "Epicteto",
+    "text": "¿Quieres ser invencible? Entonces no entres en combate con lo que no depende de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 273,
+    "author": "Epicteto",
+    "text": "¿Quieres ser libre? Entonces aprende a desear solamente lo que depende de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 274,
+    "author": "Epicteto",
+    "text": "¿Quieres ser libre? Entonces no ambiciones nada que dependa de los demás, o te harás esclavo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 275,
+    "author": "Epicteto",
+    "text": "¿Quieres vencer todas las cosas? Entonces vence tus opiniones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 276,
+    "author": "Epicteto",
+    "text": "¿Quiénes son esas personas cuya admiración buscas? ¿No son acaso aquellos a quienes sueles llamar locos? Entonces, ¿es eso lo que quieres, ganarte la admiración de los locos?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 277,
+    "author": "Epicteto",
+    "text": "¿Qué ganarías con injuriar a una piedra que es incapaz de oírte?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 278,
+    "author": "Epicteto",
+    "text": "¿Qué ganarías con injuriar a una piedra que es incapaz de oírte? Pues bien, imita a la piedra y no oigas las injurias que te dirijan tus enemigos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 279,
+    "author": "Epicteto",
+    "text": "¿Qué son el llanto y el lamento? Opinión. ¿Qué es la desgracia? Opinión. ¿Qué son la discordia, el desacuerdo, la culpa, la acusación, la impiedad, la necedad? Todo esto son opiniones y nada más",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 280,
+    "author": "Epicteto",
+    "text": "¿Se perdió un poco de aceite, fue sustraído un poco de vino? Afirma \"es el precio por la equanimidad, el valor por conservar la calma\" porque nada se obtiene sin coste alguno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 281,
+    "author": "Hecatón de Rodas",
+    "text": "Deja de esperar y dejarás de temer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 282,
+    "author": "Marco Aurelio",
+    "text": "A la mañana, cuando te cueste levantarte, piensa: me levanto para realizar mi tarea de hombre. ¿Voy a sentir fastidio si voy a hacer lo que es conforme a mi naturaleza?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 283,
+    "author": "Marco Aurelio",
+    "text": "A la mañana, cuando te despiertes, piensa en lo que es necesario hacer, en lo que es posible hacer, y luego actúa de acuerdo con lo que sabes que es correcto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 284,
+    "author": "Marco Aurelio",
+    "text": "A menudo me he preguntado cómo es posible que cada hombre se ame a sí mismo más que a todos los demás, pero sin embargo, valore menos su propia opinión sobre sí mismo que la opinión de los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 285,
+    "author": "Marco Aurelio",
+    "text": "Acepta alegremente lo que te llegue de la mano de la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 286,
+    "author": "Marco Aurelio",
+    "text": "Acepta con serenidad lo que el destino te ha deparado y ama a las personas con las que te ha tocado vivir, pero hazlo de todo corazón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 287,
+    "author": "Marco Aurelio",
+    "text": "Acepta las cosas a las que el destino te ata y ama a las personas con las que el destino te junta, pero hazlo con todo tu corazón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 288,
+    "author": "Marco Aurelio",
+    "text": "Acepta las cosas a las que el destino te ata y ama a las personas con quienes el destino te reúne",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 289,
+    "author": "Marco Aurelio",
+    "text": "Acepta las cosas a las que el destino te une, y ama a las personas con las que el destino te une, pero hazlo con todo tu corazón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 290,
+    "author": "Marco Aurelio",
+    "text": "Acepta sin arrogancia, deja ir sin apego",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 291,
+    "author": "Marco Aurelio",
+    "text": "Acepta sin arrogancia, deja ir sin resistencia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 292,
+    "author": "Marco Aurelio",
+    "text": "Acuérdate también de esto siempre; para vivir felizmente basta con muy poco",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 293,
+    "author": "Marco Aurelio",
+    "text": "Adáptate a las cosas a las que tu destino te ha unido y ama a las personas con las que te relaciona el destino, pero hazlo con todo tu corazón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 294,
+    "author": "Marco Aurelio",
+    "text": "Adáptate a las cosas entre las que tu destino te ha colocado, y ama sinceramente a los seres con los que el destino te ha reunido",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 295,
+    "author": "Marco Aurelio",
+    "text": "Adáptate al presente; acomoda tus deseos a las circunstancias actuales",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 296,
+    "author": "Marco Aurelio",
+    "text": "Alguno ora: \"Haz que pueda estar con esa mujer\" Tu oración debería ser: \"Haz que no anhele estar con ella\" \"Uno pide: Libérame de esto\" Tú deberías pedir: \"Haz que no necesite liberación\" Otro dice: \"¿Cómo haré para no perder a mi hijo?\" Tú deberías preguntar: \"¿Cómo puedo no temer perderlo?\" Cambia el enfoque de tus plegarias así y mira los resultados",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 297,
+    "author": "Marco Aurelio",
+    "text": "Alégrate de lo que sucede; porque lo que ha sucedido no pudo haberse evitado, y lo que ha sucedido debe ser bueno para el mundo y por ende para ti, que eres una parte del mundo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 298,
+    "author": "Marco Aurelio",
+    "text": "Amar solo lo que pasa, lo que estaba destinado. No hay mayor armonía",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 299,
+    "author": "Marco Aurelio",
+    "text": "Aprende a ser indiferente a lo que no hace ninguna diferencia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 300,
+    "author": "Marco Aurelio",
+    "text": "Asia y Europa son apenas esquinas del vasto universo; el gran mar es solo una gota dentro de él; el monte Athos, no más que un grano de arena en el universo; y todo el tiempo presente, apenas un punto en la eternidad. Todo es insignificante, transitorio y efímero",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 301,
+    "author": "Marco Aurelio",
+    "text": "Aunque debieras vivir tres mil años y aun diez veces otros tantos, acuérdate siempre que no se pierde otra vida que la que se vive y que sólo se vive la que se pierde. Así, la más larga vida y la más corta vienen a reducirse a lo mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 302,
+    "author": "Marco Aurelio",
+    "text": "Basta con poner tu atención y deseo en ser bueno contigo mismo en cualquier cosa que hagas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 303,
+    "author": "Marco Aurelio",
+    "text": "Busco la verdad, y la verdad nunca dañó a nadie. Lo que nos daña es persistir en el autoengaño y en la ignorancia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 304,
+    "author": "Marco Aurelio",
+    "text": "Cada cosa tiene su tiempo. El fruto verde no puede ser recogido antes de madurar, y lo que no llega a su estación es imperfecto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 305,
+    "author": "Marco Aurelio",
+    "text": "Cada día es una oportunidad para practicar la virtud y mejorar tu carácter",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 306,
+    "author": "Marco Aurelio",
+    "text": "Cada día es una vida en miniatura",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 307,
+    "author": "Marco Aurelio",
+    "text": "Cada día nos proporciona una oportunidad para mejorar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 308,
+    "author": "Marco Aurelio",
+    "text": "Cada día, prepárate con serenidad para lo peor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 309,
+    "author": "Marco Aurelio",
+    "text": "Cada instante de tiempo es un grano de arena que se escapa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 310,
+    "author": "Marco Aurelio",
+    "text": "Cada uno de nosotros vive solo el momento presente; lo demás o ya pasó o es incierto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 311,
+    "author": "Marco Aurelio",
+    "text": "Cada uno vive sólo en el presente, este fugaz instante. Todo el resto de su vida o ya se ha vivido o es incierto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 312,
+    "author": "Marco Aurelio",
+    "text": "Cambia tus pensamientos y cambiarás tu mundo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 313,
+    "author": "Marco Aurelio",
+    "text": "Comenzar es la mitad del trabajo. Comienza nuevamente con la mitad restante y habrás terminado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 314,
+    "author": "Marco Aurelio",
+    "text": "Considera cuidadosamente el pasado: los innumerables cambios de regímenes políticos. También puedes ver los eventos futuros de antemano; serán del mismo tipo, porque es imposible apartarse del patrón. De ello se deduce que haber observado la vida humana durante cuarenta años es lo mismo que durante diez mil.  ¿Qué más vas a ver?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 315,
+    "author": "Marco Aurelio",
+    "text": "Considera cuán precioso es el tiempo que tienes para hacer lo que debes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 316,
+    "author": "Marco Aurelio",
+    "text": "Considera que así como los montones de arena apilados uno sobre otro ocultan las arenas anteriores, así en la vida los eventos que van antes son pronto cubiertos por los que vienen después",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 317,
+    "author": "Marco Aurelio",
+    "text": "Contempla cada cosa con atención y pregúntate: ¿qué eres tú en realidad, cuál es tu naturaleza esencial? No te quedes con la apariencia, busca lo que está dentro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 318,
+    "author": "Marco Aurelio",
+    "text": "Cuando alguien te haga una injusticia, acuérdate de que la paz de espíritu y la serenidad dependen únicamente de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 319,
+    "author": "Marco Aurelio",
+    "text": "Cuando te irrites por la conducta de alguien, vuelve enseguida a ti mismo y examina si tú no cometes errores semejantes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 320,
+    "author": "Marco Aurelio",
+    "text": "Cuando te levantes por la mañana, piensa en el precioso privilegio de estar vivo, de respirar, de pensar, de disfrutar, de amar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 321,
+    "author": "Marco Aurelio",
+    "text": "Cuando te ofendas por cualquier acción de otro, acércate a ti mismo y aprende de qué manera tú eres culpable de una acción similar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 322,
+    "author": "Marco Aurelio",
+    "text": "Cuida de mantener intacto tu carácter moral, por insignificantes que sean las cosas que estés haciendo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 323,
+    "author": "Marco Aurelio",
+    "text": "Cuida que en lo más íntimo de ti habite un hombre que no se perturbe por nada, que no sea esclavo de placeres o dolores, que no se rinda a la ignorancia ni espere nada del azar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 324,
+    "author": "Marco Aurelio",
+    "text": "Cuánto tiempo ahorra quien no mira lo que su vecino dice o hace o piensa, sino solo lo que hace él mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 325,
+    "author": "Marco Aurelio",
+    "text": "Cuánto tiempo ahorra quien no mira lo que su vecino dice o hace o piensa, sino solo lo que hace él mismo, para hacerlo justo y santo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 326,
+    "author": "Marco Aurelio",
+    "text": "Cuánto tiempo gana aquel que no se preocupa por ver lo que su vecino dice, hace o piensa, sino solo por lo que él mismo hace",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 327,
+    "author": "Marco Aurelio",
+    "text": "Dale a cada cosa su valor, pero no más de lo que vale",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 328,
+    "author": "Marco Aurelio",
+    "text": "Debemos hacer el bien a los demás tan naturalmente como un caballo corre, una abeja hace miel o una viña da uvas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 329,
+    "author": "Marco Aurelio",
+    "text": "Deja de imaginar lo que te gustaría que suceda y acepta lo que sucede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 330,
+    "author": "Marco Aurelio",
+    "text": "Descarta tu percepción de haber sido herido y la herida misma se esfuma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 331,
+    "author": "Marco Aurelio",
+    "text": "Despréndete de la percepción de ofensa y la ofensa misma se esfumará",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 332,
+    "author": "Marco Aurelio",
+    "text": "El alma de cada hombre es un dios, un dios distribuido como fragmento del divino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 333,
+    "author": "Marco Aurelio",
+    "text": "El alma humana desprecia lo que está junto a ella y anhela lo que está lejos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 334,
+    "author": "Marco Aurelio",
+    "text": "El alma se adapta a todo lo que le sucede: transforma en sí misma lo que se le presenta, como el fuego devora lo que se le arroja y de ello se eleva aún más",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 335,
+    "author": "Marco Aurelio",
+    "text": "El alma se tiñe del color de sus pensamiento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 336,
+    "author": "Marco Aurelio",
+    "text": "El alma se tiñe del color de sus pensamientos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 337,
+    "author": "Marco Aurelio",
+    "text": "El alma se tiñe del color de sus pensamientos. Por lo tanto, vigila constantemente qué tipo de pensamientos dejas entrar en tu mente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 338,
+    "author": "Marco Aurelio",
+    "text": "El alma se vuelve del color de sus pensamientos. Así que tiñe la tuya con una corriente continua de pensamientos como estos: donde un hombre puede vivir, allí también puede vivir bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 339,
+    "author": "Marco Aurelio",
+    "text": "El arte de la vida es más como el combate del luchador que como la danza del bailarín, porque debemos estar preparados y firmes para afrontar lo que venga",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 340,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir es más como la lucha que como la danza, ya que estamos obligados a estar siempre preparados y en guardia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 341,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se asemeja más a la lucha que a la danza en lo que se refiere a estar firmemente dispuesto a hacer frente a los accidentes incluso imprevistos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 342,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se asemeja más a la lucha que a la danza, en cuanto que siempre tiene que estar listo para enfrentar algo inesperado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 343,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se parece más a la lucha que a la danza, en cuanto que hay que estar firme y preparado para los golpes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 344,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se parece más a la lucha que a la danza: hay que estar siempre preparado y firme ante lo inesperado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 345,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se parece más al arte de la lucha que al de la danza se debe estar firme y preparado para lo que pueda ocurrir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 346,
+    "author": "Marco Aurelio",
+    "text": "El arte de vivir se parece más al de la lucha que al de la danza: ha de mantenerse siempre uno firme y preparado para lo imprevisto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 347,
+    "author": "Marco Aurelio",
+    "text": "El corto espacio de tiempo que te queda por vivir no lo malgastes en pensar en los asuntos de otro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 348,
+    "author": "Marco Aurelio",
+    "text": "El hombre noble se avergüenza, más de lo que hace, que de lo que le sucede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 349,
+    "author": "Marco Aurelio",
+    "text": "El impedimento para la acción avanza la acción. Lo que se interpone en el camino se convierte en el camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 350,
+    "author": "Marco Aurelio",
+    "text": "El mañana no está garantizado Haz el bien ahora",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 351,
+    "author": "Marco Aurelio",
+    "text": "El mejor modo de afrontar la adversidad es mantener tu serenidad y confiar en tu razón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 352,
+    "author": "Marco Aurelio",
+    "text": "El mejor modo de defenderte es no ser como aquel que te agravia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 353,
+    "author": "Marco Aurelio",
+    "text": "El mejor modo de vengar la injuria es no parecerse al que la infirió",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 354,
+    "author": "Marco Aurelio",
+    "text": "El mejor tipo de venganza es no ser como aquel que te hizo daño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 355,
+    "author": "Marco Aurelio",
+    "text": "El objetivo de la vida no es estar del lado de la mayoría, sino escapar de encontrarse uno mismo en las filas de los dementes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 356,
+    "author": "Marco Aurelio",
+    "text": "El objetivo de la vida no es estar del lado de la mayoría, sino evitar encontrarse en las filas de los insensatos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 357,
+    "author": "Marco Aurelio",
+    "text": "El objeto de la vida no es estar en el lado de la mayoría, sino escapar de formar parte de los insensatos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 358,
+    "author": "Marco Aurelio",
+    "text": "El obstáculo que encuentras en el trayecto se convierte en el camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 359,
+    "author": "Marco Aurelio",
+    "text": "El obstáculo que parece frenar la acción termina favoreciendo el avance. Lo que se interpone en el camino se convierte en el camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 360,
+    "author": "Marco Aurelio",
+    "text": "El obstáculo se convierte en el camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 361,
+    "author": "Marco Aurelio",
+    "text": "El perseguir imposibles es locura. Y es imposible que los malvados no cometan tales acciones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 362,
+    "author": "Marco Aurelio",
+    "text": "El primer paso: No te dejes llevar por la impresión: \"esto me preocupa\"; porque una vez que la impresión te ha engañado, te arrastra tras ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 363,
+    "author": "Marco Aurelio",
+    "text": "El que comete una injusticia es más desgraciado que el que la sufre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 364,
+    "author": "Marco Aurelio",
+    "text": "El que ha visto el presente lo ha visto todo, tanto lo que ha ocurrido desde la eternidad como lo que acontecerá en el infinito",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 365,
+    "author": "Marco Aurelio",
+    "text": "El que ha visto el presente lo ha visto todo, tanto lo que ha sucedido desde la eternidad como lo que sucederá hasta la eternidad, porque todo es igual en naturaleza y forma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 366,
+    "author": "Marco Aurelio",
+    "text": "El que hace el bien no debe alardear de ello, así como la vid no proclama sus uvas, sino que simplemente las produce",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 367,
+    "author": "Marco Aurelio",
+    "text": "El que no vive en armonía consigo mismo tampoco vive en armonía con el universo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 368,
+    "author": "Marco Aurelio",
+    "text": "El que peca, peca contra sí mismo; el que comete una injusticia, contra sí la comete, y a sí mismo se daña",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 369,
+    "author": "Marco Aurelio",
+    "text": "El recuerdo de todas las cosas queda en un instante sepultado en la eternidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 370,
+    "author": "Marco Aurelio",
+    "text": "El tiempo es como un río hecho de los acontecimientos que suceden, y su corriente es fuerte; apenas algo aparece, es arrastrado y otro viene en su lugar, y también será arrastrado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 371,
+    "author": "Marco Aurelio",
+    "text": "El tiempo es como un río, formado por los hechos, que adquiere violenta corriente. Apenas se advierte uno, cuando otro ocupa su lugar, para dejar enseguida paso al que le sigue",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 372,
+    "author": "Marco Aurelio",
+    "text": "El tiempo es una especie de río de eventos, y su corriente se precipita con fuerza. No puede detenerse. Es imposible tocar la misma agua dos veces",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 373,
+    "author": "Marco Aurelio",
+    "text": "El universo es cambio, la vida es opinión",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 374,
+    "author": "Marco Aurelio",
+    "text": "El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 375,
+    "author": "Marco Aurelio",
+    "text": "El valor de un ser humano depende de aquello a lo que elige dedicar su esfuerzo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 376,
+    "author": "Marco Aurelio",
+    "text": "El verdadero propósito de la vida es vivir de acuerdo a la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 377,
+    "author": "Marco Aurelio",
+    "text": "El verdadero valor consiste en la práctica diaria de las virtudes humanas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 378,
+    "author": "Marco Aurelio",
+    "text": "En cada acción que realizas, considera las cosas que te llevaron a ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 379,
+    "author": "Marco Aurelio",
+    "text": "En cuanto a mí, soy feliz si la fuerza rectora de mi mente es sana, si no me aparto de nadie, ni de ninguna de las cosas que les suceden a los hombres, sino que puedo mirar todas las cosas con ojos bondadosos y apreciar todo según su verdadero valor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 380,
+    "author": "Marco Aurelio",
+    "text": "En ninguna parte puede hallar el hombre un retiro tan apacible y tranquilo como en la intimidad de su alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 381,
+    "author": "Marco Aurelio",
+    "text": "En todas las acciones considera las consecuencias, qué sufrimiento inmediato pueden causar y cuánto beneficio pueden traer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 382,
+    "author": "Marco Aurelio",
+    "text": "Es la calidad de tus pensamientos la que te hará amar tu vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 383,
+    "author": "Marco Aurelio",
+    "text": "Es más fácil apagar una primera chispa que extinguir un fuego consumado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 384,
+    "author": "Marco Aurelio",
+    "text": "Es propio del alma racional amar incluso a quienes yerran. Lo hace acercándose a ellos con suavidad y buscando que reconozcan su error, no para censurarlos, sino como un médico hace con una herida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 385,
+    "author": "Marco Aurelio",
+    "text": "Es ridículo no intentar evitar tu propia maldad, lo cual es posible, y en cambio intentar evitar la de los demás, lo cual es imposible",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 386,
+    "author": "Marco Aurelio",
+    "text": "Fíjate bien en el principio rector de la gente, especialmente de los sabios, de qué huyen y qué buscan",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 387,
+    "author": "Marco Aurelio",
+    "text": "Haz cada cosa en tu vida como si fuera lo último que hagas, con seriedad, sin distracción, y con dignidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 388,
+    "author": "Marco Aurelio",
+    "text": "Haz lo que debas, con rectitud, sin preocuparte si alguien lo ve o no",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 389,
+    "author": "Marco Aurelio",
+    "text": "Haz lo que la naturaleza requiere. No lo que parezca más agradable, sino lo que la razón dicta como mejor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 390,
+    "author": "Marco Aurelio",
+    "text": "He aquí una regla para recordar en el futuro, cuando algo te tiente a sentir amargura: no pienses \"esto es una desgracia\", sino \"soportar esto dignamente es buena fortuna\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 391,
+    "author": "Marco Aurelio",
+    "text": "Hemos nacido para colaborar, al igual que los pies, las manos, los párpados, las hileras de dientes superiores e inferiores. Obrar, pues, como adversarios los unos de los otros, es contrario a la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 392,
+    "author": "Marco Aurelio",
+    "text": "La conciencia vale por mil testigos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 393,
+    "author": "Marco Aurelio",
+    "text": "La dulzura es una fuerza invencible cuando es sincera, sin afectación y sin disfraz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 394,
+    "author": "Marco Aurelio",
+    "text": "La felicidad de los que quieren ser populares depende de los demás; la felicidad de los que buscan el placer fluctúa según los estados de ánimo que escapan a su control; pero la felicidad de los sabios crece a partir de sus propios actos libres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 395,
+    "author": "Marco Aurelio",
+    "text": "La felicidad de tu vida depende de la calidad de tus pensamientos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 396,
+    "author": "Marco Aurelio",
+    "text": "La felicidad de tu vida depende de la calidad de tus pensamientos; por tanto, cuídalos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 397,
+    "author": "Marco Aurelio",
+    "text": "La felicidad es disfrutar el presente sin la ansiedad que depende de lo que está por venir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 398,
+    "author": "Marco Aurelio",
+    "text": "La mayor parte de lo que decimos y hacemos no es esencial. Elimina lo innecesario, y ganarás tiempo y tranquilidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 399,
+    "author": "Marco Aurelio",
+    "text": "La mayoría de lo que hacemos y decimos no es esencial. Pregúntate en cada momento, ¿es esto necesario?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 400,
+    "author": "Marco Aurelio",
+    "text": "La mejor defensa es no parecerte a quienes te hacen daño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 401,
+    "author": "Marco Aurelio",
+    "text": "La mejor manera de defenderte de quienes te ofenden es no parecerte a ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 402,
+    "author": "Marco Aurelio",
+    "text": "La mejor manera de vengarte de una persona es no parecerte a ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 403,
+    "author": "Marco Aurelio",
+    "text": "La mejor manera de vengarte es no parecerte a aquel que te ha hecho daño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 404,
+    "author": "Marco Aurelio",
+    "text": "La mejor venganza es no ser como tu enemigo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 405,
+    "author": "Marco Aurelio",
+    "text": "La mejor venganza es ser diferente a quien causó el daño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 406,
+    "author": "Marco Aurelio",
+    "text": "La naturaleza humana te ha concedido la razón. No existe mejor regalo. No es la masa de carne que te ha sido dada, sino el poder de usarla para el bien común",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 407,
+    "author": "Marco Aurelio",
+    "text": "La opinión de diez mil hombres no tiene valor si no están en lo cierto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 408,
+    "author": "Marco Aurelio",
+    "text": "La perfección de las costumbres consiste en vivir cada día como si fuera el último, sin agitación, sin apatía, sin fingimiento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 409,
+    "author": "Marco Aurelio",
+    "text": "La perfección del carácter es esto: vivir cada día como si fuera el último, evitar la agitación, la apatía y la falsedad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 410,
+    "author": "Marco Aurelio",
+    "text": "La perfección del carácter es esto: vivir cada día como si fuera el último, sin frenesí, sin apatía, sin pretensión",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 411,
+    "author": "Marco Aurelio",
+    "text": "La persona que sigue la razón en todas las cosas es a la vez libre y tranquila",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 412,
+    "author": "Marco Aurelio",
+    "text": "La política es el arte de impedir que la gente se meta en lo que sí le importa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 413,
+    "author": "Marco Aurelio",
+    "text": "La pérdida no es más que cambio, y el cambio es deleite de la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 414,
+    "author": "Marco Aurelio",
+    "text": "La tranquilidad perfecta consiste en el buen orden de la mente, el reino propio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 415,
+    "author": "Marco Aurelio",
+    "text": "La tranquilidad perfecta consiste en el orden de la mente, en la armonía entre las palabras y las acciones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 416,
+    "author": "Marco Aurelio",
+    "text": "La vida de un hombre es lo que sus pensamientos hacen de ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 417,
+    "author": "Marco Aurelio",
+    "text": "La vida no es ni buena ni mala, sino que es sólo un lugar para el bien y el mal",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 418,
+    "author": "Marco Aurelio",
+    "text": "La única riqueza que conservarás para siempre es la riqueza que has obsequiado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 419,
+    "author": "Marco Aurelio",
+    "text": "La única riqueza que siempre tendrás es la que has dado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 420,
+    "author": "Marco Aurelio",
+    "text": "Las consecuencias de la ira son mucho más dañinas que sus causas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 421,
+    "author": "Marco Aurelio",
+    "text": "Las cosas en las que piensas determinan la calidad de tu mente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 422,
+    "author": "Marco Aurelio",
+    "text": "Las personas que trabajan toda su vida pero no tienen un objetivo al que dirigir todos sus pensamientos e impulsos pierden el tiempo, incluso cuando trabajan duro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 423,
+    "author": "Marco Aurelio",
+    "text": "Lo que da valor a la vida no es su duración, sino su uso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 424,
+    "author": "Marco Aurelio",
+    "text": "Lo que hacemos ahora resuena en la eternidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 425,
+    "author": "Marco Aurelio",
+    "text": "Lo que no es bueno para la colmena, no es bueno para la abeja",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 426,
+    "author": "Marco Aurelio",
+    "text": "Lo que no es útil para la colmena no es útil para la abeja",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 427,
+    "author": "Marco Aurelio",
+    "text": "Lo que sea que ocurra, lo enfrento con serenidad porque así lo exige la naturaleza del universo. Todo lo que está en armonía con la naturaleza no debe ser temido",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 428,
+    "author": "Marco Aurelio",
+    "text": "Los hombres existen los unos para los otros. Instrúyelos o sopórtalos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 429,
+    "author": "Marco Aurelio",
+    "text": "Los hombres han nacido los unos para los otros. Instrúyelos o sopórtalos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 430,
+    "author": "Marco Aurelio",
+    "text": "Los hombres han nacido unos para otros, así que o edúcalos o sopórtalos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 431,
+    "author": "Marco Aurelio",
+    "text": "Los temas que ocupan a menudo tu cabeza moldearán tu percepción, pues la mente se colorea según sus pensamientos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 432,
+    "author": "Marco Aurelio",
+    "text": "Mantente firme en tus principios como si fueras una roca que las olas no cesan de golpear pero no pueden mover",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 433,
+    "author": "Marco Aurelio",
+    "text": "Mira bien dentro de ti. Allí está la fuente del bien, jamás exhausta si la vas ahondando",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 434,
+    "author": "Marco Aurelio",
+    "text": "Mira dentro de ti mismo. Dentro está la fuente de bien, una fuente que siempre está lista para fluir, si siempre cavas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 435,
+    "author": "Marco Aurelio",
+    "text": "Mira dentro de ti mismo. Dentro está la fuente del bien, una fuente que siempre estará disponible si siempre la buscas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 436,
+    "author": "Marco Aurelio",
+    "text": "Mira dentro de ti: allí está la fuente del bien, y puede brotar incesantemente si miras siempre hacia ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 437,
+    "author": "Marco Aurelio",
+    "text": "Mira hacia dentro; dentro está la fuente del bien, y seguirá brotando si la sigues ahondando",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 438,
+    "author": "Marco Aurelio",
+    "text": "Muy poco se requiere para hacer una vida feliz; todo está dentro de ti, en tu forma de pensar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 439,
+    "author": "Marco Aurelio",
+    "text": "Nada tiene tanto poder para ampliar la mente como la capacidad de investigar de manera sistemática y verdadera todo lo que se presenta en la vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 440,
+    "author": "Marco Aurelio",
+    "text": "No actúes como si fueras a vivir diez mil años. La muerte acecha. Mientras vivas, mientras sea posible, sé bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 441,
+    "author": "Marco Aurelio",
+    "text": "No actúes como si fueras a vivir diez mil años. La muerte está cerca de ti. Mientras vives, mientras está en tu poder, sé bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 442,
+    "author": "Marco Aurelio",
+    "text": "No actúes como si fueras a vivir diez mil años. La muerte pende sobre ti. Mientras vivas, mientras esté en tu poder, sé bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 443,
+    "author": "Marco Aurelio",
+    "text": "No actúes como si fueras a vivir mil años. La muerte está en la puerta. Mientras vivas, mientras puedas, sé bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 444,
+    "author": "Marco Aurelio",
+    "text": "No actúes en la idea de que vas a vivir diez mil años. La necesidad ineludible pende sobre ti. Mientras vives, mientras es posible, sé virtuoso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 445,
+    "author": "Marco Aurelio",
+    "text": "No busques nunca la tranquilidad en ningún otro lugar sino en tu propia alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 446,
+    "author": "Marco Aurelio",
+    "text": "No desees que las cosas sean más fáciles, desea ser tú más capaz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 447,
+    "author": "Marco Aurelio",
+    "text": "No desperdicies lo que queda de tu vida en conjeturas sobre los demás, a menos que sea en beneficio común",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 448,
+    "author": "Marco Aurelio",
+    "text": "No desperdicies lo que te queda de vida en especular sobre los demás, a menos que sea en beneficio común",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 449,
+    "author": "Marco Aurelio",
+    "text": "No desperdicies lo que te queda de vida en suposiciones sobre los demás, a menos que te refieras a un bien común",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 450,
+    "author": "Marco Aurelio",
+    "text": "No digas más que lees a Platón o a Zenón: muéstralo en tus obras",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 451,
+    "author": "Marco Aurelio",
+    "text": "No es la muerte lo que un hombre debe temer, sino nunca comenzar a vivir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 452,
+    "author": "Marco Aurelio",
+    "text": "No es la muerte lo que un hombre debe temer, sino nunca haber comenzado a vivir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 453,
+    "author": "Marco Aurelio",
+    "text": "No es la muerte lo que un hombre debería temer, sino el nunca comenzar a vivir realmente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 454,
+    "author": "Marco Aurelio",
+    "text": "No es la muerte lo que un hombre debería temer, sino el nunca empezar a vivir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 455,
+    "author": "Marco Aurelio",
+    "text": "No fantasees con tener cosas que no posees. Mejor elige lo mejor de lo que ya tienes y piensa cuánto lo anhelarías si no fuera tuyo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 456,
+    "author": "Marco Aurelio",
+    "text": "No gastes más tiempo argumentando acerca de lo que debe ser un buen hombre. Sé uno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 457,
+    "author": "Marco Aurelio",
+    "text": "No hay necesidad de molestar tu alma por cosas que no puedes controlar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 458,
+    "author": "Marco Aurelio",
+    "text": "No malgastes lo que queda de tu vida en especulaciones sobre los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 459,
+    "author": "Marco Aurelio",
+    "text": "No malgastes más tiempo discutiendo sobre lo que debería ser un buen hombre. Sé uno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 460,
+    "author": "Marco Aurelio",
+    "text": "No perturbes tu alma con pensamientos futuros que aún no han llegado. Afronta lo presente basándote en la razón y la justicia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 461,
+    "author": "Marco Aurelio",
+    "text": "No pienses más en lo que te falta, sino en lo que tienes, y escoge de entre las cosas que tienes las más valiosas, y reflexiona cuánto las habrías deseado si no las tuvieras",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 462,
+    "author": "Marco Aurelio",
+    "text": "No pierdas más tiempo argumentando sobre lo que debe ser un hombre bueno. Sé uno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 463,
+    "author": "Marco Aurelio",
+    "text": "No pierdas más tiempo discutiendo sobre cómo debería ser un buen hombre. Sé uno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 464,
+    "author": "Marco Aurelio",
+    "text": "No pierdas más tiempo discutiendo sobre lo que debe ser un buen hombre. Sé uno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 465,
+    "author": "Marco Aurelio",
+    "text": "No sueñes con las cosas que no tienes, más bien reconoce las bendiciones de las cosas que sí posees",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 466,
+    "author": "Marco Aurelio",
+    "text": "No te aflijas porque no te comprenden. Aflígete de no poder comprender a los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 467,
+    "author": "Marco Aurelio",
+    "text": "No te angusties imaginando toda tu vida de un solo golpe. No estés siempre pensando en los sufrimientos que podrían sobrevenirte y en cuántos serían. Pregunta más bien, ante cada situación presente: \"¿Qué hay aquí que resulte insoportable o insufrible?\" Te resultará difícil responder",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 468,
+    "author": "Marco Aurelio",
+    "text": "No te dejes arrastrar por la imaginación de todo lo que podría suceder, sino limítate a considerar la situación presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 469,
+    "author": "Marco Aurelio",
+    "text": "No te distraigas; sé sencillo, bueno, puro, grave, imperturbable, un amante de la justicia, piadoso, amable, fuerte en el cumplimiento de tu deber",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 470,
+    "author": "Marco Aurelio",
+    "text": "No te imagines teniendo cosas que no tienes. Más bien, elige lo mejor de las cosas que tienes y piensa en cuánto las desearías si no las tuvieras",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 471,
+    "author": "Marco Aurelio",
+    "text": "No te olvides de lo cortas que son las vidas de todas las cosas mortales, y de lo insignificantes que son: ayer una pequeña gota de moco, mañana una momia o ceniza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 472,
+    "author": "Marco Aurelio",
+    "text": "No te perturba pesar solo cierta cantidad de libras y no trescientas; ¿pero te aflige tener solo unos cuantos años de vida y no más? Así como estás satisfecho con la cantidad de sustancia que te ha sido asignada, así también deberías estarlo con el tiempo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 473,
+    "author": "Marco Aurelio",
+    "text": "No te perturbes por las cosas que aún están en el futuro. Porque llegarás a ellas, si es necesario, con la misma razón que ahora empleas cuando tratas con las cosas en el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 474,
+    "author": "Marco Aurelio",
+    "text": "No te preocupes por lo que la gente piense de ti. Sólo preocúpate por lo que tú piensas de ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 475,
+    "author": "Marco Aurelio",
+    "text": "No te quedes con la opinión de los insolentes ni con lo que ellos quieran hacerte creer. Considera las cosas tal y como son en realidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 476,
+    "author": "Marco Aurelio",
+    "text": "No te sientas superior a los demás porque conoces más. El conocimiento debería llevarte a la comprensión y puedes ver que todos somos iguales",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 477,
+    "author": "Marco Aurelio",
+    "text": "Nuestra vida es lo que nuestros pensamientos hacen de ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 478,
+    "author": "Marco Aurelio",
+    "text": "Nuestro enojo y frustración son más a menudo causados por nuestras propias reacciones y percepciones que por los actos de los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 479,
+    "author": "Marco Aurelio",
+    "text": "Nuestro enojo y molestia son más perjudiciales para nosotros que las cosas mismas que nos enfadan o molestan",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 480,
+    "author": "Marco Aurelio",
+    "text": "Nunca dejes que el futuro te moleste. Te encontrarás con él, si es que debes hacerlo, con las mismas armas razonables que hoy te arman contra el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 481,
+    "author": "Marco Aurelio",
+    "text": "Nunca dejes que el futuro te perturbe. Te enfrentarás a él, si es necesario, con las mismas armas de la razón que hoy te protegen contra el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 482,
+    "author": "Marco Aurelio",
+    "text": "Nunca permitas que el futuro te perturbe. Te enfrentarás a él, si es necesario, con las mismas armas de la razón que hoy te arman contra el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 483,
+    "author": "Marco Aurelio",
+    "text": "Olvida el pasado, desentiéndete del futuro, y vive en el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 484,
+    "author": "Marco Aurelio",
+    "text": "Olvidaste también que todo es opinión; que cada uno vive únicamente el momento presente, y eso es lo que pierde",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 485,
+    "author": "Marco Aurelio",
+    "text": "Para alcanzar una vida plena se requiere poco; reside todo en tu interior, en tu manera de pensar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 486,
+    "author": "Marco Aurelio",
+    "text": "Pasa a través de este breve espacio de tiempo de acuerdo con la naturaleza y termina tu viaje en paz, como una aceituna madura que cae cuando es su momento, bendiciendo a la tierra que la sostuvo y dando gracias al árbol que la llevó",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 487,
+    "author": "Marco Aurelio",
+    "text": "Penetra en ti mismo. Ahí está el manantial del bien, tanto más inagotable cuanto más profundo se cava",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 488,
+    "author": "Marco Aurelio",
+    "text": "Piensa en la belleza de la vida. Mira las estrellas y mírate corriendo con ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 489,
+    "author": "Marco Aurelio",
+    "text": "Piensa en ti mismo como si estuvieras muerto. Ya has vivido tu vida. Ahora, toma lo que queda y vívela correctamente. Lo que no transmite luz crea su propia oscuridad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 490,
+    "author": "Marco Aurelio",
+    "text": "Piensa en ti mismo como si hubieras muerto, y como si hubieras terminado la vida que has vivido hasta ahora. La parte que se te permite más allá de esto, vívela de acuerdo con la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 491,
+    "author": "Marco Aurelio",
+    "text": "Pierde de vista todo el resto y guarda solo esto: no actuar de manera contraria a la naturaleza; y para un hombre actuar según la naturaleza, es actuar de acuerdo a la razón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 492,
+    "author": "Marco Aurelio",
+    "text": "Podemos elegir no tener opinión sobre algo, y no ser perturbados por ello; pues las cosas en sí mismas no tienen poder propio para afectar nuestros juicios",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 493,
+    "author": "Marco Aurelio",
+    "text": "Podrías dejar la vida en este mismo momento. Deja que eso determine lo que haces, dices y piensas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 494,
+    "author": "Marco Aurelio",
+    "text": "Pronto habrás olvidado todo; pronto todo te habrá olvidado a ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 495,
+    "author": "Marco Aurelio",
+    "text": "Que los hombres vean y reconozcan en tu persona a un hombre como es debido, que vive conforme a la naturaleza. Si no te consienten que obres así, que te maten. Más vale morir que vivir como ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 496,
+    "author": "Marco Aurelio",
+    "text": "Recibe sin orgullo, deja ir sin apego",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 497,
+    "author": "Marco Aurelio",
+    "text": "Recibe sin orgullo, suelta sin apego",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 498,
+    "author": "Marco Aurelio",
+    "text": "Recuerda esto: cada uno de nosotros vive únicamente este momento presente e indivisible. Todo lo demás ya ha sido vivido o es incierto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 499,
+    "author": "Marco Aurelio",
+    "text": "Recuerda que cada hombre vive solo en el presente, en este instante fugaz. Lo demás ya se ha vivido y está archivado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 500,
+    "author": "Marco Aurelio",
+    "text": "Recuerda que el tiempo es como un río que arrastra todo lo que nace; y lo mismo es la vida humana, que apenas aparece se ve arrastrada",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 501,
+    "author": "Marco Aurelio",
+    "text": "Recuerda que no vives en el futuro ni en el pasado, sino solo en el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 502,
+    "author": "Marco Aurelio",
+    "text": "Recuerda:  Materia: Qué pequeña es tu parte de ella. El tiempo: Qué breve y fugaz es la parte que te corresponde. El destino: Qué pequeño es tu papel en él.",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 503,
+    "author": "Marco Aurelio",
+    "text": "Reflexiona sobre la belleza de la vida. Observa las estrellas y visualízate corriendo junto a ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 504,
+    "author": "Marco Aurelio",
+    "text": "Se afanan por encontrar retiros –en el campo, en las playas, en las montañas –y tú igualmente sueles desear vehementemente estos espacios.  Sin embargo, todo esto es un error, pues uno puede retirarse a su interior en cualquier momento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 505,
+    "author": "Marco Aurelio",
+    "text": "Se necesita muy poco para tener una vida feliz; todo está dentro de ti, en tu forma de pensar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 506,
+    "author": "Marco Aurelio",
+    "text": "Si alguien demuestra que estoy equivocado en algún pensamiento o acción, cambiaré con gusto. Busco la verdad, que nunca daña a nadie; el daño está en persistir en el autoengaño y la ignorancia.",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 507,
+    "author": "Marco Aurelio",
+    "text": "Si alguien es capaz de mostrarme que lo que pienso o hago no es correcto, cambiaré con gusto, puesto que busco la verdad y nunca nadie ha sido herido por la verdad. La persona que se estanca en la ignorancia es la que sale herida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 508,
+    "author": "Marco Aurelio",
+    "text": "Si alguien puede demostrarme que pienso o actúo erróneamente, cambiaré de buen grado, porque busco la verdad, y nadie ha sido nunca dañado por ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 509,
+    "author": "Marco Aurelio",
+    "text": "Si alguna cosa externa te causa angustia, no es la cosa en sí misma la que te perturba, sino tu propio juicio sobre ella. Y esto tienes el poder de eliminarlo ahora",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 510,
+    "author": "Marco Aurelio",
+    "text": "Si algún hombre me odia, ese es su problema. Mi única preocupación es no hacer o decir nada que merezca ese odio",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 511,
+    "author": "Marco Aurelio",
+    "text": "Si estás afligido por algo externo, el dolor no se debe a la cosa en sí, sino a tu juicio sobre ella. Y está en tu poder eliminar ese juicio ahora",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 512,
+    "author": "Marco Aurelio",
+    "text": "Si estás afligido por algo externo, el dolor no se debe a la cosa en sí, sino a tu valoración de ella; y tienes el poder de cambiar esta valoración en cualquier momento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 513,
+    "author": "Marco Aurelio",
+    "text": "Si estás afligido por alguna cosa externa, el dolor no se debe a la cosa en sí, sino a tu estimación de ella; y esto tienes el poder de revocar en cualquier momento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 514,
+    "author": "Marco Aurelio",
+    "text": "Si no conviene, no lo hagas; si no es verdad, no lo digas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 515,
+    "author": "Marco Aurelio",
+    "text": "Si no es correcto, no lo hagas; si no es verdad, no lo digas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 516,
+    "author": "Marco Aurelio",
+    "text": "Si te angustia algo externo, el dolor no se debe a la cosa en sí, sino a tu valoración de ella; y esta valoración tienes el poder de revocarla en cualquier momento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 517,
+    "author": "Marco Aurelio",
+    "text": "Si te angustia cualquier cosa externa, el dolor no se debe a la cosa en sí, sino a tu estimación de ella; y esto tienes el poder de revocarlo en cualquier momento",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 518,
+    "author": "Marco Aurelio",
+    "text": "Si te perturba algo externo, el sufrimiento no se debe a la cosa en sí, sino a tu valoración de ella; y tienes la capacidad de modificar esa valoración en cualquier instante",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 519,
+    "author": "Marco Aurelio",
+    "text": "Si te sientes afligido por cualquier causa externa, no es ella la que te molesta, sino tu propio juicio sobre ella. Y basta con que lo elimines para que desaparezca tu malestar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 520,
+    "author": "Marco Aurelio",
+    "text": "Siempre que estés a punto de encontrar una falta en alguien, hazte la siguiente pregunta: ¿Qué defecto mío se parece más al que estoy a punto de criticar?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 521,
+    "author": "Marco Aurelio",
+    "text": "Siempre tienes la opción de no opinar. Nunca hay necesidad de alterarse ni de preocuparse por cosas que no puedes controlar. Esas cosas no piden ser juzgadas por ti. Déjalas en paz",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 522,
+    "author": "Marco Aurelio",
+    "text": "Sufrir percances no es sufrir una desgracia; pero soportarlos con abnegación es una virtud meritoria",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 523,
+    "author": "Marco Aurelio",
+    "text": "Sé como el acantilado contra el que las olas se rompen continuamente; pero él permanece firme y doma la furia del agua que lo rodea",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 524,
+    "author": "Marco Aurelio",
+    "text": "Sé como la roca contra la que se estrellan continuamente las olas; ella permanece firme, y el furor del agua cae a su alrededor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 525,
+    "author": "Marco Aurelio",
+    "text": "Tanto la muerte como la vida, el honor y el deshonor, el dolor y el placer, la riqueza y la pobreza – todas estas cosas les suceden por igual a los hombres buenos y malos – no siendo ni nobles ni vergonzosas. Por lo tanto, no son ni buenas ni malas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 526,
+    "author": "Marco Aurelio",
+    "text": "Te queda muy poco tiempo de vida. Vive, pues, como en una montaña, ya que importa poco vivir aquí o allá si se vive en el mundo como en una ciudad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 527,
+    "author": "Marco Aurelio",
+    "text": "Ten presente que la filosofía no quiere sino lo que quiere tu naturaleza, mientras tú quisieras otra cosa, opuesta a ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 528,
+    "author": "Marco Aurelio",
+    "text": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Al darte cuenta de ello, descubrirás tu fuerza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 529,
+    "author": "Marco Aurelio",
+    "text": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Reconoce esto y encontrarás fortaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 530,
+    "author": "Marco Aurelio",
+    "text": "Todo el océano: una gota del universo, todo el presente, un instante en la eternidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 531,
+    "author": "Marco Aurelio",
+    "text": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 532,
+    "author": "Marco Aurelio",
+    "text": "Todo lo que escuchas es una opinión, no un hecho; todo lo que ves es una perspectiva, no la verdad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 533,
+    "author": "Marco Aurelio",
+    "text": "Todo lo que experimentamos es transitorio. Rápidamente todo desaparece en la corriente de la universalidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 534,
+    "author": "Marco Aurelio",
+    "text": "Todo lo que experimentamos es transitorio. Rápidamente todo desaparece en la corriente del universo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 535,
+    "author": "Marco Aurelio",
+    "text": "Todos los hombres están hechos unos para otros: entonces, o enséñales o aprende a soportarlos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 536,
+    "author": "Marco Aurelio",
+    "text": "Todos los que murieron en tiempos de Vespasiano ya han sido olvidados; y también los que lloraban por ellos. Igualmente, dentro de poco, tú mismo serás polvo, y los que te recuerden también desaparecerán",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 537,
+    "author": "Marco Aurelio",
+    "text": "Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto, y encontrarás la fuerza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 538,
+    "author": "Marco Aurelio",
+    "text": "Vas a morir en cualquier momento, y aún así no eres simple y directo, ni tienes paz mental, ni estás libre de la sospecha de que serás herido por cosas externas, ni eres amable con todos, ni ves que ser sabio consiste únicamente en ser justo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 539,
+    "author": "Marco Aurelio",
+    "text": "Vive una buena vida. Si hay dioses y son justos, entonces no les importará cuán devoto has sido, sino que te acogerán en base a las virtudes por las que has vivido. Si hay dioses, pero son injustos, entonces no deberías querer adorarlos. Si no hay dioses, entonces te habrás ido, pero habrás vivido una vida noble que perdurará en los recuerdos de tus seres queridos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 540,
+    "author": "Marco Aurelio",
+    "text": "Vive una buena vida. Si hay dioses y son justos, no te castigarán por haber sido virtuoso; si no los hay, habrás vivido una vida noble y completa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 541,
+    "author": "Marco Aurelio",
+    "text": "¡Asia, Europa: rincones del mundo; todo el océano: una gota del universo! El Athos: un minúsculo terrón en todo el universo; todo el presente, un instante en la eternidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 542,
+    "author": "Marco Aurelio",
+    "text": "¿Cuál es tu oficio? Ser bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 543,
+    "author": "Marco Aurelio",
+    "text": "¿Cuál es tu oficio? Ser una buena persona",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 544,
+    "author": "Marco Aurelio",
+    "text": "¿Cuánto tiempo más vas a esperar para exigirte lo mejor?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 545,
+    "author": "Marco Aurelio",
+    "text": "¿De qué sirve al hombre temer el cambio? ¿Qué puede ocurrir sin cambio? ¿Qué hay más grato o más propio de la naturaleza del universo?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 546,
+    "author": "Marco Aurelio",
+    "text": "¿De qué sirve tu reputación si no puedes gobernarte a ti mismo?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 547,
+    "author": "Marco Aurelio",
+    "text": "¿Qué es, pues, lo que puede acompañarte en la vida? Una sola cosa: la filosofía. Ella es la que te mantiene siempre libre, y por tanto sereno.",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 548,
+    "author": "Musonio Rufo",
+    "text": "Aquel que no sabe lo que es bueno, nunca hará lo que es bueno",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 549,
+    "author": "Musonio Rufo",
+    "text": "El hombre sabio es capaz de encontrar felicidad en cualquier circunstancia, pues ha aprendido a vivir en armonía con la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 550,
+    "author": "Musonio Rufo",
+    "text": "La filosofía no es simplemente una teoría, sino una forma de vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 551,
+    "author": "Musonio Rufo",
+    "text": "Si eres bueno, el exilio no podrá dañarte; y si eres malo, no es el exilio lo que te perjudica, sino tu maldad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 552,
+    "author": "Musonio Rufo",
+    "text": "Si logras algo bueno con trabajo duro, el esfuerzo pasa rápidamente, pero lo bueno perdura;  si haces algo vergonzoso en la búsqueda del placer, el placer pasa rápidamente, pero la vergüenza perdura",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 553,
+    "author": "Musonio Rufo",
+    "text": "Te ganarás el respeto de todos si empiezas por ganarte el respeto de ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 554,
+    "author": "Séneca",
+    "text": "A la opinión y fama démosle su lugar debido; que no pretendan guiarnos, antes bien, que nos sigan",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 555,
+    "author": "Séneca",
+    "text": "A lo que has de aplicarte es a cómo usar lo que tienes, no a cómo conseguir lo que no tienes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 556,
+    "author": "Séneca",
+    "text": "A menudo el miedo a una cosa nos hace caer en otra",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 557,
+    "author": "Séneca",
+    "text": "A menudo es más valiente quien se contiene que quien ataca",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 558,
+    "author": "Séneca",
+    "text": "A menudo estamos más asustados que heridos; y sufrimos más por la imaginación que por la realidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 559,
+    "author": "Séneca",
+    "text": "A veces incluso vivir es un acto de valentía",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 560,
+    "author": "Séneca",
+    "text": "Acepta las cosas tal como vienen. Toda la vida es un proceso de aprendizaje",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 561,
+    "author": "Séneca",
+    "text": "Actúas como un mortal en todo lo que temes y como un inmortal en todo lo que deseas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 562,
+    "author": "Séneca",
+    "text": "Aferraos a vuestros entusiasmos juveniles; podréis emplearlos mejor cuando seáis mayores",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 563,
+    "author": "Séneca",
+    "text": "Al principio todas las cosas son pequeñas, pero se hacen grandes por perseverancia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 564,
+    "author": "Séneca",
+    "text": "Alcanza las cumbres quien descubre lo que verdaderamente le satisface y no sujeta su contento a lo que escapa de su mano",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 565,
+    "author": "Séneca",
+    "text": "Aprende a desear que las cosas sean como son",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 566,
+    "author": "Séneca",
+    "text": "Aprende a retirarte en ti mismo: en ningún lugar se encuentra el hombre más en calma y más libre de preocupaciones que en su propio espíritu.",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 567,
+    "author": "Séneca",
+    "text": "Aprende a ser tu propio amigo; habita contigo mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 568,
+    "author": "Séneca",
+    "text": "Aprende mientras eres joven lo que necesitarás saber cuando seas viejo: aprende ahora para no tener que aprender cuando no se te pueda enseñar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 569,
+    "author": "Séneca",
+    "text": "Aprender la virtud es desaprender los vicios",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 570,
+    "author": "Séneca",
+    "text": "Apresúrate a vivir bien y piensa que cada día es, por sí solo, una vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 571,
+    "author": "Séneca",
+    "text": "Aquel que no sabe lo que busca, no entiende lo que encuentra",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 572,
+    "author": "Séneca",
+    "text": "Aquel que se enoja con los hechos, no los corrige, sino que se atormenta",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 573,
+    "author": "Séneca",
+    "text": "Aquel que teme la muerte nunca será libre, porque siempre estará sometido al temor de perder su vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 574,
+    "author": "Séneca",
+    "text": "Aquellos que avanzan con paso constante, aunque sea lento, avanzarán mucho más que los que están siempre cambiando",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 575,
+    "author": "Séneca",
+    "text": "Así como el fuego consume los edificios, así la envidia devora las almas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 576,
+    "author": "Séneca",
+    "text": "Así como el fuego prueba el oro, el sufrimiento pone a prueba a los hombres valientes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 577,
+    "author": "Séneca",
+    "text": "Así como no hay viento favorable para quien no sabe a qué puerto se dirige, no hay felicidad para quien no sabe qué desea",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 578,
+    "author": "Séneca",
+    "text": "Cambia tu ánimo, no el cielo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 579,
+    "author": "Séneca",
+    "text": "Comienza de inmediato a vivir, y considera cada día como una vida independiente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 580,
+    "author": "Séneca",
+    "text": "Concedo gran crédito al juicio de los grandes hombres, mas no por eso dejo de tener el mío",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 581,
+    "author": "Séneca",
+    "text": "Contempla el profundo abismo temporal y observa la magnitud del universo; al medir la duración de lo que llamamos vida contra tal vastedad, descubrirás lo ínfimo de nuestros anhelos por ampliarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 582,
+    "author": "Séneca",
+    "text": "Crees que tienes que habértelas con muchas dificultades, pero la verdad es que la mayor dificultad está en ti y tú eres el estorbo para ti mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 583,
+    "author": "Séneca",
+    "text": "Cuando el sol se eclipsa para desaparecer, se ve mejor su grandeza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 584,
+    "author": "Séneca",
+    "text": "Cuanto mayor es la dificultad, mayor es la gloria de superarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 585,
+    "author": "Séneca",
+    "text": "Cuanto más alto te encuentres, menos aires debes darte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 586,
+    "author": "Séneca",
+    "text": "Cuanto más grande es la dificultad, mayor es la gloria de superarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 587,
+    "author": "Séneca",
+    "text": "Cuanto más grandes somos en humildad, tanto más cerca estamos de la grandeza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 588,
+    "author": "Séneca",
+    "text": "Cuán miserable es aquel que depende del destino; pero cuán afortunado es el que se somete a sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 589,
+    "author": "Séneca",
+    "text": "Debemos vivir para los demás si queremos vivir para nosotros mismos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 590,
+    "author": "Séneca",
+    "text": "Deberíamos rendirnos cuentas cada noche; ¿Qué debilidad he dominado hoy? ¿Qué pasiones he contrarrestado? ¿Qué tentación he resistido? ¿Qué virtud he adquirido?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 591,
+    "author": "Séneca",
+    "text": "Dichoso el que se complace en la virtud y que, sumido en ella, pasa tranquilo y sereno por encima de las vicisitudes humanas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 592,
+    "author": "Séneca",
+    "text": "Disfruta de los placeres actuales de tal manera que no perjudiques los futuros",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 593,
+    "author": "Séneca",
+    "text": "El alma grande y noble no se abate con la adversidad ni se exalta con la prosperidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 594,
+    "author": "Séneca",
+    "text": "El alma noble no se turba ni en la prosperidad ni en la desgracia; siempre se eleva por encima de las circunstancias",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 595,
+    "author": "Séneca",
+    "text": "El alma racional se basta a sí misma cuando se comprende y se contempla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 596,
+    "author": "Séneca",
+    "text": "El arte de vivir se aprende durante toda la vida y exige revisar cómo usamos cada día",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 597,
+    "author": "Séneca",
+    "text": "El deseo de poseer es una enfermedad del alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 598,
+    "author": "Séneca",
+    "text": "El destino conduce a quien lo acepta y arrastra a quien se resiste",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 599,
+    "author": "Séneca",
+    "text": "El destino guía a quien lo acepta y arrastra a quien se resiste",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 600,
+    "author": "Séneca",
+    "text": "El destino guía al que consiente y arrastra al que se resiste",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 601,
+    "author": "Séneca",
+    "text": "El fuego prueba el oro, la desgracia prueba al hombre fuerte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 602,
+    "author": "Séneca",
+    "text": "El fuego prueba el oro; la desgracia, los hombres valientes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 603,
+    "author": "Séneca",
+    "text": "El hombre alcanza las alturas si sabe lo que le hace feliz, si no ha hecho depender su felicidad de cosas que no están en su poder",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 604,
+    "author": "Séneca",
+    "text": "El hombre sabio no se lamenta por lo que no tiene, sino que se regocija por lo que sí tiene",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 605,
+    "author": "Séneca",
+    "text": "El hombre sabio se contenta con ser él mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 606,
+    "author": "Séneca",
+    "text": "El hombre sabio, que sabe mirar todo lo que va a suceder como si ya hubiese sucedido, permanecerá invulnerable",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 607,
+    "author": "Séneca",
+    "text": "El hombre verdaderamente libre es aquel que no teme perder nada",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 608,
+    "author": "Séneca",
+    "text": "El impacto de un insulto se basa en la susceptibilidad y la irritación del afectado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 609,
+    "author": "Séneca",
+    "text": "El mayor impedimento para vivir es la espera del mañana: pierde el hoy quien depende del mañana",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 610,
+    "author": "Séneca",
+    "text": "El mayor impedimento para vivir es la espera, que se aferra al mañana y desperdicia el hoy",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 611,
+    "author": "Séneca",
+    "text": "El mayor impedimento para vivir es la expectativa, que se basa en el mañana y descuida el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 612,
+    "author": "Séneca",
+    "text": "El mayor poder de todos es el dominio sobre uno mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 613,
+    "author": "Séneca",
+    "text": "El mayor signo de sabiduría es la serenidad constante. Porque nada grande se tambalea",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 614,
+    "author": "Séneca",
+    "text": "El miedo al cambio es el peor de todos los temores",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 615,
+    "author": "Séneca",
+    "text": "El más poderoso es aquel que tiene el poder sobre sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 616,
+    "author": "Séneca",
+    "text": "El primer arte que debe aprenderse es el de soportar los males",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 617,
+    "author": "Séneca",
+    "text": "El que es esclavo de la ira está expuesto a ser herido por sus propias armas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 618,
+    "author": "Séneca",
+    "text": "El que es prisionero de su ignorancia, es el primer prisionero de la fortuna",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 619,
+    "author": "Séneca",
+    "text": "El que está en todas partes, no está en ninguna",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 620,
+    "author": "Séneca",
+    "text": "El que ha dominado el arte de morir ha olvidado cómo ser esclavo. Está por encima de cualquier dominio, ciertamente ajeno a él. ¿Qué pueden importarle las cárceles, los grilletes y los barrotes?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 621,
+    "author": "Séneca",
+    "text": "El que recibe un beneficio con gratitud lo paga ya con creces",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 622,
+    "author": "Séneca",
+    "text": "El que se enfurece por las cosas que no puede corregir, se olvida de que también él es humano",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 623,
+    "author": "Séneca",
+    "text": "El sabio es libre aun cuando esté encadenado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 624,
+    "author": "Séneca",
+    "text": "El sabio no se apena por lo que no tiene, sino que se alegra por lo que tiene",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 625,
+    "author": "Séneca",
+    "text": "El sabio no se enfada con el mundo por ser mundo, ni con la naturaleza por seguir su curso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 626,
+    "author": "Séneca",
+    "text": "El sabio quiere siempre aquello que está obligado a hacer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 627,
+    "author": "Séneca",
+    "text": "El sabio se acostumbra a los males futuros: lo que otros hombres hacen soportable por la larga resistencia, él lo hace soportable por la larga reflexión. A veces oímos decir a los inexpertos: \"No sabía que esto me estaba reservado\". El sabio sabe que todo le está reservado. Pase lo que pase, dice: \"Lo sabía\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 628,
+    "author": "Séneca",
+    "text": "El sabio se basta a sí mismo, pero le gusta rodearse de amigos; no por necesidad, sino por elección",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 629,
+    "author": "Séneca",
+    "text": "El sabio se basta a sí mismo, pero necesita amigos: necesita amigos precisamente para ejercitar su sabiduría",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 630,
+    "author": "Séneca",
+    "text": "El tiempo descubre la verdad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 631,
+    "author": "Séneca",
+    "text": "El tiempo es el bien más preciado, y sin embargo, el más desperdiciado por la mayoría de los hombres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 632,
+    "author": "Séneca",
+    "text": "El tiempo es el recurso más valioso que tenemos; no lo desperdiciemos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 633,
+    "author": "Séneca",
+    "text": "El tiempo presente es muy breve, tan breve que para algunos parece no existir. Siempre está en movimiento, fluye y se apresura; deja de ser antes de llegar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 634,
+    "author": "Séneca",
+    "text": "El valor de la vida no está en la duración de los días, sino en el uso que hacemos de ellos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 635,
+    "author": "Séneca",
+    "text": "El verdadero alivio de la fatiga no es la inacción, sino el cambio de ocupación",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 636,
+    "author": "Séneca",
+    "text": "El verdadero gozo es el que nace de la conciencia tranquila",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 637,
+    "author": "Séneca",
+    "text": "En la adversidad, es cuando el alma muestra su fortaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 638,
+    "author": "Séneca",
+    "text": "Enseñar es aprender dos veces",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 639,
+    "author": "Séneca",
+    "text": "Errar es humano; pero perseverar (en el error) es diabólico",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 640,
+    "author": "Séneca",
+    "text": "Es difícil llevar a las personas a la bondad con lecciones, pero es fácil hacerlo con el ejemplo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 641,
+    "author": "Séneca",
+    "text": "Es esclavo quien depende de muchos, aunque sea señor de todos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 642,
+    "author": "Séneca",
+    "text": "Es esencial entender que una buena vida no es un estado de estar, sino un estado de hacer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 643,
+    "author": "Séneca",
+    "text": "Es feliz el que tiene un juicio recto; es feliz el que está contento con las circunstancias presentes, sean las que quieran, y es amigo de lo que tiene; es feliz aquel para quien la razón es quien da valor a todas las cosas de su vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 644,
+    "author": "Séneca",
+    "text": "Es mejor ser odiado por lo que eres que ser amado por lo que no eres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 645,
+    "author": "Séneca",
+    "text": "Es más fuerte quien vence sus deseos que quien conquista a sus enemigos, porque la victoria más difícil es sobre uno mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 646,
+    "author": "Séneca",
+    "text": "Es parte de un hombre sabio no huir de la muerte, sino esperarla con ánimo sereno como uno de los actos de la vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 647,
+    "author": "Séneca",
+    "text": "Es un gran error creerse más de lo que uno es, o menos de lo que uno vale",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 648,
+    "author": "Séneca",
+    "text": "Feliz es aquel que es capaz de permanecer tranquilo aun en medio de la adversidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 649,
+    "author": "Séneca",
+    "text": "Fue la avaricia la que instauró la pobreza y al ambicionarlo todo lo perdió todo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 650,
+    "author": "Séneca",
+    "text": "Grandes riquezas, gran esclavitud",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 651,
+    "author": "Séneca",
+    "text": "Hay cosas que para saberlas no basta con haberlas aprendido",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 652,
+    "author": "Séneca",
+    "text": "Hay más cosas, Lucilio, que nos asustan que las que realmente nos afectan; sufrimos más a menudo en la imaginación que en la realidad… Exageramos nuestro dolor, o lo inventamos, o nos adelantamos a él",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 653,
+    "author": "Séneca",
+    "text": "Hay que considerar no de dónde viene la gente, sino hacia dónde va",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 654,
+    "author": "Séneca",
+    "text": "Hay que vivir como si uno estuviera siempre a la vista de los demás; y como si alguien pudiera ver lo que uno piensa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 655,
+    "author": "Séneca",
+    "text": "Haz cada cosa como si fuera la última que fueras a hacer en tu vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 656,
+    "author": "Séneca",
+    "text": "Hemos sido predestinados por la naturaleza para hacerla mejor, no solo para observarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 657,
+    "author": "Séneca",
+    "text": "Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de ti",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 658,
+    "author": "Séneca",
+    "text": "Ingrato es quien niega el beneficio recibido; ingrato es quien lo disimula, más ingrato es quien no lo devuelve, y mucho más ingrato quien se olvida de él",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 659,
+    "author": "Séneca",
+    "text": "Jamás se descubriría nada si nos considerásemos satisfechos con las cosas descubiertas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 660,
+    "author": "Séneca",
+    "text": "Júzgate dichoso cuando puedas vivir a la vista de todo el mundo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 661,
+    "author": "Séneca",
+    "text": "La alegría, si es verdadera, no debe ser turbada por ningún temor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 662,
+    "author": "Séneca",
+    "text": "La amistad siempre es provechosa; el amor a veces hiere",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 663,
+    "author": "Séneca",
+    "text": "La desgracia es una ocasión para la virtud",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 664,
+    "author": "Séneca",
+    "text": "La dificultad muestra lo que los hombres son",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 665,
+    "author": "Séneca",
+    "text": "La dificultad nos fortalece, como el viento fuerte hace que las llamas crezcan en lugar de apagarse",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 666,
+    "author": "Séneca",
+    "text": "La expectativa es el mayor obstáculo para la vida. En la anticipación del mañana, se pierde el hoy",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 667,
+    "author": "Séneca",
+    "text": "La felicidad de la vida humana no se encuentra en la posesión de abundancia, sino en tener la mente satisfecha",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 668,
+    "author": "Séneca",
+    "text": "La felicidad no se encuentra en la posesión de cosas, sino en el disfrute de ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 669,
+    "author": "Séneca",
+    "text": "La filosofía enseña a actuar, no a hablar; exige que cada uno viva según sus principios, no que los repita",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 670,
+    "author": "Séneca",
+    "text": "La filosofía no consiste en palabras, sino en hechos; no en que repitas máximas, sino en que vivas según ellas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 671,
+    "author": "Séneca",
+    "text": "La fortuna hiere a menudo a los hombres, pero el sabio permanece invulnerable porque no pone su felicidad en cosas que puede perder",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 672,
+    "author": "Séneca",
+    "text": "La fortuna no cambia a los hombres; simplemente los revela",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 673,
+    "author": "Séneca",
+    "text": "La fortuna puede quitarte tus riquezas, pero no tu valor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 674,
+    "author": "Séneca",
+    "text": "La ignorancia es la causa del miedo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 675,
+    "author": "Séneca",
+    "text": "La ira es como un torrente que arrastra todo a su paso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 676,
+    "author": "Séneca",
+    "text": "La ira, si no se contiene, es más dañina que la injuria que la provocó",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 677,
+    "author": "Séneca",
+    "text": "La ira, si no se controla, es con frecuencia más dañina para nosotros que la lesión que la provoca",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 678,
+    "author": "Séneca",
+    "text": "La ira: un ácido que puede hacer más daño al recipiente en la que se almacena que en cualquier cosa sobre la que se vierte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 679,
+    "author": "Séneca",
+    "text": "La leyenda se escribe con el ejemplo, no con los argumentos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 680,
+    "author": "Séneca",
+    "text": "La libertad es tener una mente superior a la injuria, una mente que se convierte en la única fuente de donde brotan sus placeres, que se separa de todas las cosas externas, evitando la vida inquieta de quien teme la risa de todos, la lengua de todos. Porque si hay alguien que pueda insultar, ¿quién no puede?",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 681,
+    "author": "Séneca",
+    "text": "La mayor esclavitud es la de ser esclavo de uno mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 682,
+    "author": "Séneca",
+    "text": "La mayor parte de la vida se nos escapa mientras la estamos preparando",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 683,
+    "author": "Séneca",
+    "text": "La mayor rémora de la vida es la espera del mañana y la pérdida del día de hoy",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 684,
+    "author": "Séneca",
+    "text": "La mayor señal de que se posee una mente ordenada es saber permanecer solo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 685,
+    "author": "Séneca",
+    "text": "La mente que está anhelante de futuras adquisiciones pierde el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 686,
+    "author": "Séneca",
+    "text": "La muerte es el deseo de algunos, el alivio de muchos y el fin de todos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 687,
+    "author": "Séneca",
+    "text": "La percepción lo determina todo. La ambición, el exceso y la avaricia tienen sus raíces en nuestra percepción; es por ella que padecemos. Cada individuo es tan desdichado como él mismo se ha hecho creer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 688,
+    "author": "Séneca",
+    "text": "La pobreza no es tener poco, sino desear más",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 689,
+    "author": "Séneca",
+    "text": "La pobreza no radica en tener poco, sino en codiciar más",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 690,
+    "author": "Séneca",
+    "text": "La primera tarea de la filosofía es educarnos en el desprecio de la apariencia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 691,
+    "author": "Séneca",
+    "text": "La primera tarea de la filosofía es educarnos en el desprecio de las apariencias",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 692,
+    "author": "Séneca",
+    "text": "La recompensa de una buena acción es haberla hecho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 693,
+    "author": "Séneca",
+    "text": "La riqueza es la esclava de un hombre sabio. El ama de un tonto",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 694,
+    "author": "Séneca",
+    "text": "La sabiduría se conquista; no se recibe. No es propiedad, sino que cada generación debe ganársela de nuevo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 695,
+    "author": "Séneca",
+    "text": "La suerte es lo que ocurre cuando la preparación coincide con la oportunidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 696,
+    "author": "Séneca",
+    "text": "La suerte es lo que ocurre cuando la preparación se encuentra con la oportunidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 697,
+    "author": "Séneca",
+    "text": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 698,
+    "author": "Séneca",
+    "text": "La suerte favorece a los valientes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 699,
+    "author": "Séneca",
+    "text": "La tranquilidad es el resultado de un espíritu libre de preocupaciones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 700,
+    "author": "Séneca",
+    "text": "La tranquilidad no consiste en carecer de ocupaciones, sino en que no nos perturben",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 701,
+    "author": "Séneca",
+    "text": "La verdadera felicidad consiste en hacer el bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 702,
+    "author": "Séneca",
+    "text": "La verdadera felicidad es disfrutar del presente sin ansiosa dependencia del futuro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 703,
+    "author": "Séneca",
+    "text": "La verdadera felicidad es disfrutar el presente, sin depender ansiosamente del futuro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 704,
+    "author": "Séneca",
+    "text": "La verdadera felicidad es gozar del presente, sin depender ansiosamente del futuro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 705,
+    "author": "Séneca",
+    "text": "La verdadera felicidad no consiste en tenerlo todo, sino en no desear nada",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 706,
+    "author": "Séneca",
+    "text": "La verdadera felicidad radica en hacer el bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 707,
+    "author": "Séneca",
+    "text": "La verdadera libertad consiste en el dominio absoluto de sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 708,
+    "author": "Séneca",
+    "text": "La vida es como una obra de teatro: no es la duración, sino la excelencia de la actuación lo que importa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 709,
+    "author": "Séneca",
+    "text": "La vida es como una obra de teatro: no importa cuánto dure, sino cuán bien se haya representado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 710,
+    "author": "Séneca",
+    "text": "La vida es como una pieza teatral; no importa cuánto haya durado sino cuán bien haya sido representada",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 711,
+    "author": "Séneca",
+    "text": "La vida es larga si sabes cómo vivirla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 712,
+    "author": "Séneca",
+    "text": "La vida es muy corta y angustiosa para aquellos que olvidan el pasado, descuidan el presente y temen el futuro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 713,
+    "author": "Séneca",
+    "text": "La vida ni es un bien ni un mal, es sólo ocasión de bien y de mal",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 714,
+    "author": "Séneca",
+    "text": "La vida no es corta, sino que nosotros la hacemos corta al malgastarla",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 715,
+    "author": "Séneca",
+    "text": "La vida sin propósito es una muerte prematura",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 716,
+    "author": "Séneca",
+    "text": "La vida, si sabes cómo usarla, es larga",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 717,
+    "author": "Séneca",
+    "text": "La virtud es una facultad que no puede ser arrebatada, que no puede ser comprada, que no se pierde",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 718,
+    "author": "Séneca",
+    "text": "La virtud solo corresponde a un alma instruida, entrenada y conducida a la perfección por ejercicio asiduo. Nacemos para ello pero sin ello",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 719,
+    "author": "Séneca",
+    "text": "Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 720,
+    "author": "Séneca",
+    "text": "Las obras se tienen medio terminadas cuando se han comenzado bien",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 721,
+    "author": "Séneca",
+    "text": "Las penas pequeñas son locuaces, las grandes son mudas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 722,
+    "author": "Séneca",
+    "text": "Lo innecesario, aunque cueste un sólo céntimo, es caro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 723,
+    "author": "Séneca",
+    "text": "Lo que importa es la calidad de tu vida, no su duración",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 724,
+    "author": "Séneca",
+    "text": "Lo que importa no es lo que sucede, sino cómo reaccionamos a lo que sucede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 725,
+    "author": "Séneca",
+    "text": "Lo que la naturaleza requiere es poco, mientras que la opinión pide mucho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 726,
+    "author": "Séneca",
+    "text": "Lo que más cuesta aprender es lo que más amamos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 727,
+    "author": "Séneca",
+    "text": "Lo que verdaderamente nos hace daño no es la adversidad, sino el miedo a la adversidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 728,
+    "author": "Séneca",
+    "text": "Los desastres naturales nos enseñan la fragilidad de nuestras construcciones, pero la solidez de nuestra virtud",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 729,
+    "author": "Séneca",
+    "text": "Los hombres no se preocupan por vivir con nobleza, sino por vivir mucho tiempo, aunque está al alcance de todos vivir de manera noble, pero en manos de nadie está el vivir mucho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 730,
+    "author": "Séneca",
+    "text": "Los que se entregan a la filosofía deben prepararse, no para hablar, sino para vivir con rectitud",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 731,
+    "author": "Séneca",
+    "text": "Los que se preocupan por el futuro no están aprovechando el presente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 732,
+    "author": "Séneca",
+    "text": "Mientras esperamos vivir, la vida pasa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 733,
+    "author": "Séneca",
+    "text": "Mientras más corremos detrás de nuestra fortuna, más se nos escapa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 734,
+    "author": "Séneca",
+    "text": "Mientras perdemos nuestro tiempo en la vacilación y en posponer, la vida se nos escapa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 735,
+    "author": "Séneca",
+    "text": "Mientras se está posponiendo la vida, pasa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 736,
+    "author": "Séneca",
+    "text": "Mientras vivamos, aprendamos a vivir",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 737,
+    "author": "Séneca",
+    "text": "Muéstrame quién no es un esclavo. Uno es esclavo de la lujuria, otro de la avaricia, otro de la ambición, y todos son esclavos del miedo. No hay esclavitud más deshonrosa que la que uno mismo se impone",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 738,
+    "author": "Séneca",
+    "text": "Nada es tan amargo que una mente tranquila no pueda encontrar en ello cierta tranquilidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 739,
+    "author": "Séneca",
+    "text": "Nada es tan poderoso como una idea cuyo tiempo ha llegado",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 740,
+    "author": "Séneca",
+    "text": "Nada es tan vergonzoso para un sabio como el engaño en las palabras o en los hechos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 741,
+    "author": "Séneca",
+    "text": "Nada hay por lo que la naturaleza merezca mayor alabanza que esto: conociendo las dificultades para las que nacimos, inventó el hábito como un bálsamo para los desastres; nos acostumbramos rápidamente incluso a las desgracias más severas. Nadie podría soportar la adversidad si su persistencia se sintiera con la misma fuerza que su primer golpe",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 742,
+    "author": "Séneca",
+    "text": "Nada proporciona tanto placer a la mente como una amistad sincera y leal",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 743,
+    "author": "Séneca",
+    "text": "Nada se parece tanto a la injusticia como la justicia tardía",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 744,
+    "author": "Séneca",
+    "text": "Nadie está dispuesto a distribuir su dinero a los demás; pero ¡entre cuántos otros distribuimos cada uno de nosotros nuestras vidas! Los hombres son tacaños en la protección de sus fortunas, pero extravagantes cuando se trata de perder el tiempo, lo único en lo que es correcto ser codicioso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 745,
+    "author": "Séneca",
+    "text": "Nadie hay menos afortunado que aquel a quien nunca le ocurrió una desgracia, pues no se le permitió ponerse a prueba",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 746,
+    "author": "Séneca",
+    "text": "Ninguna persona alcanza la sabiduría por mera casualidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 747,
+    "author": "Séneca",
+    "text": "Ningún descubrimiento harás si te contentas con lo que ya sabes",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 748,
+    "author": "Séneca",
+    "text": "Ningún hombre es más desgraciado que aquel a quien nunca le aconteció adversidad, pues no se le permitió ponerse a prueba",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 749,
+    "author": "Séneca",
+    "text": "Ningún hombre fue sabio por casualidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 750,
+    "author": "Séneca",
+    "text": "Ningún hombre ha encontrado una cura para un mal que ignora",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 751,
+    "author": "Séneca",
+    "text": "Ningún hombre llegó a ser sabio por casualidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 752,
+    "author": "Séneca",
+    "text": "Ningún viento es favorable para quien no sabe a qué puerto se dirige",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 753,
+    "author": "Séneca",
+    "text": "Ningún viento es favorable para quien no sabe a qué puerto se encamina",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 754,
+    "author": "Séneca",
+    "text": "Ningún árbol que crece fácilmente es fuerte; lo mismo ocurre con el ser humano",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 755,
+    "author": "Séneca",
+    "text": "No añadas más días a tu vida, sino más vida a tus días",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 756,
+    "author": "Séneca",
+    "text": "No debemos juzgar la vida de los hombres por sus grandes actos, sino por el amor que ponen en los pequeños",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 757,
+    "author": "Séneca",
+    "text": "No es el hombre que tiene poco, sino el que desea más, el que es pobre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 758,
+    "author": "Séneca",
+    "text": "No es la carga la que te rompe, sino la forma en que la llevas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 759,
+    "author": "Séneca",
+    "text": "No es la fortuna la que me hace soportar los cambios, sino la razón",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 760,
+    "author": "Séneca",
+    "text": "No es la muerte lo que es temible, sino el miedo a la muerte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 761,
+    "author": "Séneca",
+    "text": "No es libre quien está esclavizado a sus pasiones, aunque sea señor de todo lo demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 762,
+    "author": "Séneca",
+    "text": "No es pobre el hombre que tiene poco, sino el que ansía más",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 763,
+    "author": "Séneca",
+    "text": "No es pobre el que tiene poco, sino el que mucho desea",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 764,
+    "author": "Séneca",
+    "text": "No es porque las cosas sean difíciles que no nos atrevemos; es porque no nos atrevemos que son difíciles",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 765,
+    "author": "Séneca",
+    "text": "No es que seamos valientes porque no sentimos miedo, sino porque dominamos el miedo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 766,
+    "author": "Séneca",
+    "text": "No es que tengamos poco tiempo sino que perdemos mucho. ...  La vida que recibimos no es corta, pero la hacemos así",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 767,
+    "author": "Séneca",
+    "text": "No es que tengamos poco tiempo, sino que perdemos mucho",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 768,
+    "author": "Séneca",
+    "text": "No hay mayor causa de inquietud que la esperanza y el miedo. El que no espera nada ni teme nada, es verdaderamente libre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 769,
+    "author": "Séneca",
+    "text": "No hay tranquilidad sin buena conciencia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 770,
+    "author": "Séneca",
+    "text": "No hay viento favorable para el que no sabe a qué puerto se dirige",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 771,
+    "author": "Séneca",
+    "text": "No importa cuán tarde llegues a la sabiduría, siempre es mejor que no llegar nunca",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 772,
+    "author": "Séneca",
+    "text": "No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos a hacerlas",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 773,
+    "author": "Séneca",
+    "text": "No porque alguien sea menor que el más grande se le puede llamar pequeño",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 774,
+    "author": "Séneca",
+    "text": "Nos engañamos al considerar que la muerte está lejos de nosotros, cuando su mayor parte ha pasado ya, porque todo el tiempo transcurrido pertenece a la muerte",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 775,
+    "author": "Séneca",
+    "text": "Nuestro mayor enemigo es el que habita dentro de nosotros mismos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 776,
+    "author": "Séneca",
+    "text": "Nunca me avergonzaré de citar a un mal autor si la línea es buena",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 777,
+    "author": "Séneca",
+    "text": "Nunca me avergonzaré de citar una buena sentencia porque sea de un autor malo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 778,
+    "author": "Séneca",
+    "text": "Para acercarse a la perfección, el hombre debiera obrar siempre como si tuviera testigos de su conducta y pensar como si se pudiera leer en el fondo de su alma",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 779,
+    "author": "Séneca",
+    "text": "Pierden el día esperando la noche, y la noche en el temor del amanecer",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 780,
+    "author": "Séneca",
+    "text": "Por lo que se refiere al hombre no importan ni sus tierras, ni su dinero, ni sus clientes, ni la cama en que duerma o el vaso en que beba, lo que importa es cuánta sea su bondad pues ella es el sumo bien del hombre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 781,
+    "author": "Séneca",
+    "text": "Proporcionalmente al número de los admiradores crece el de los envidiosos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 782,
+    "author": "Séneca",
+    "text": "Quien beneficia a los malos, perjudica a los buenos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 783,
+    "author": "Séneca",
+    "text": "Quien es amigo, ama; quien ama, no siempre es amigo; de ahí que la amistad resulta siempre provechosa; el amor a veces hasta es perjudicial",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 784,
+    "author": "Séneca",
+    "text": "Quien es valiente es libre, aunque sea esclavo; quien es cobarde es esclavo, aunque sea rey",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 785,
+    "author": "Séneca",
+    "text": "Quien es valiente, es libre",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 786,
+    "author": "Séneca",
+    "text": "Quien ha aprendido a morir ha desaprendido a ser esclavo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 787,
+    "author": "Séneca",
+    "text": "Quien pretenda llegar a un sitio determinado emprenda un solo camino y déjese de tantear muchos a un tiempo pues esto último no es caminar sino vagar",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 788,
+    "author": "Séneca",
+    "text": "Quien sabe limitar sus deseos es siempre suficientemente rico",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 789,
+    "author": "Séneca",
+    "text": "Quien se ríe de sí mismo nunca se queda sin motivo de risa",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 790,
+    "author": "Séneca",
+    "text": "Quien tiene necesidad de riquezas vive en temor por ellas. Pero ninguna bendición que trae consigo inquietud puede ser disfrutada. Siempre está en la búsqueda de agregar algo más. En su empeño por hacer crecer su patrimonio, olvida la manera de aprovecharlo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 791,
+    "author": "Séneca",
+    "text": "Rodéate de personas que probablemente te hagan mejor",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 792,
+    "author": "Séneca",
+    "text": "Saber algo más que los otros es fácil, lo difícil es saber algo mejor que los otros",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 793,
+    "author": "Séneca",
+    "text": "Si cada uno de nosotros pudiera conocer el número de años que nos quedan, como conocemos los que han pasado, ¡cuán alarmados estaríamos y cuán ahorrativos seríamos con ellos! Y aunque es fácil administrar algo cuando se conoce su cantidad, debes proteger lo que tienes con más cuidado si no sabes cuándo se acabará",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 794,
+    "author": "Séneca",
+    "text": "Si estás libre de enemigos porque a nadie hiciste injuria, no faltarán otros que lo sean por envidia",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 795,
+    "author": "Séneca",
+    "text": "Si la cólera no se contiene nos hará más daño que la injuria que la provocó",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 796,
+    "author": "Séneca",
+    "text": "Si me preguntas cuál es el límite de las riquezas, te diré que primeramente tener lo necesario y después tener lo suficiente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 797,
+    "author": "Séneca",
+    "text": "Si quieres no ser irascible, no alimentes tu hábito; no le arrojes forraje sobre el que crecer. Como primer paso, guarda silencio y cuenta los días en los que no te enfadaste.\"Solía enfadarme todos los días, luego cada dos días, luego cada tres...\"",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 798,
+    "author": "Séneca",
+    "text": "Si quieres pesarte a ti mismo, deja a un lado el dinero, la casa, las dignidades y contémplate por dentro; mientras, estás apreciando tu valer por lo que dicen los demás",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 799,
+    "author": "Séneca",
+    "text": "Si quieres ser amado, ama",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 800,
+    "author": "Séneca",
+    "text": "Si realmente quieres escapar de las cosas que te acosan, lo que necesitas no es estar en un lugar diferente, sino ser una persona diferente",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 801,
+    "author": "Séneca",
+    "text": "Si un hombre no sabe a qué puerto se dirige, ningún viento le será favorable",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 802,
+    "author": "Séneca",
+    "text": "Si vives en armonía con la naturaleza, nunca serás pobre; si vives según lo que otros piensan, nunca serás rico",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 803,
+    "author": "Séneca",
+    "text": "Solo el tiempo puede curar lo que la razón no puede",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 804,
+    "author": "Séneca",
+    "text": "Sufrimos más en la imaginación que en la realidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 805,
+    "author": "Séneca",
+    "text": "Sufrirá más de lo necesario, quien sufre antes de que sea necesario",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 806,
+    "author": "Séneca",
+    "text": "Sé que todo me puede suceder , pero sé también que no todo me sucederá, y así espero lo favorable y estoy preparado para lo adverso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 807,
+    "author": "Séneca",
+    "text": "Sólo la virtud nos procura un goce perpetuo y seguro",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 808,
+    "author": "Séneca",
+    "text": "Sólo podrá ser venturoso quien se sienta libre de temor y la única vía que conduce a ello es la honradez",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 809,
+    "author": "Séneca",
+    "text": "Tal como es un relato, así es la vida: no importa su duración, sino su calidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 810,
+    "author": "Séneca",
+    "text": "Tal como un cuento, así es la vida: no es su longitud lo que importa, sino su calidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 811,
+    "author": "Séneca",
+    "text": "Tan necio es quien llora porque el sol se pone como quien se lamenta porque el ser humano envejece",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 812,
+    "author": "Séneca",
+    "text": "Tanto en la prosperidad como en la adversidad, la vida fluye como un río, siempre cambiante y nunca deteniéndose",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 813,
+    "author": "Séneca",
+    "text": "Te comportas como mortal ante tus miedos y como inmortal ante tus deseos",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 814,
+    "author": "Séneca",
+    "text": "Te diré cuál es el verdadero placer y de dónde viene: de la buena conciencia, de las rectas intenciones, de las buenas acciones, del menosprecio de las cosas del azar, del aire plácido y lleno de seguridad, de la vida que siempre pisa el mismo camino",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 815,
+    "author": "Séneca",
+    "text": "Te podría decir de muchas cosas que una vez compradas destruyen nuestra libertad; seríamos en estos casos más nuestros si ellas no fuesen nuestras",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 816,
+    "author": "Séneca",
+    "text": "Toda crueldad nace de la debilidad",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 817,
+    "author": "Séneca",
+    "text": "Toda virtud crece con el ejercicio y disminuye por la falta de uso",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 818,
+    "author": "Séneca",
+    "text": "Todas las calamidades podrán ser llamadas bienes siempre que la virtud las ennoblezca",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 819,
+    "author": "Séneca",
+    "text": "Todo depende de la opinión. La ambición, el lujo, la avaricia, todo se basa en la opinión; es según la opinión que sufrimos. Cada hombre es tan miserable como se ha convencido a sí mismo de ser",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 820,
+    "author": "Séneca",
+    "text": "Todo lo que excede la medida se vuelve enemigo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 821,
+    "author": "Séneca",
+    "text": "Trata a tu inferior como quieras ser tratado por tu superior",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 822,
+    "author": "Séneca",
+    "text": "Un alma noble no se rebaja por la adversidad; se eleva en ella",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 823,
+    "author": "Séneca",
+    "text": "Una discusión prolongada es un laberinto en el que la verdad siempre se pierde",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 824,
+    "author": "Séneca",
+    "text": "Una era construye ciudades. Una hora las destruye",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 825,
+    "author": "Séneca",
+    "text": "Una vida feliz es aquella que se adecúa a su naturaleza, y esto no se puede lograr sin una razón sana y constante",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 826,
+    "author": "Séneca",
+    "text": "Vencer sin peligro es ganar sin gloria",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 827,
+    "author": "Séneca",
+    "text": "Vive como si cada día fuera toda tu vida",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 828,
+    "author": "Séneca",
+    "text": "Vivir bien no es otra cosa que vivir conforme a la naturaleza",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 829,
+    "author": "Séneca",
+    "text": "Vuelvo más avaro, más ambicioso, más sensual, aún más cruel y más inhumano, porque estuve entre los hombres",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 830,
+    "author": "Séneca",
+    "text": "¿Hay muchos que te superan? Considera cuántos hay detrás en lugar de delante de ti. ¿Me preguntas cuál es tu mayor defecto? Te has equivocado en tus cuentas. Valoras demasiado lo que has gastado; lo que has recibido, muy poco",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 831,
+    "author": "Séneca",
+    "text": "¿Preguntas qué es la libertad? No ser esclavo de nada, de ninguna necesidad, de ningún accidente y conservar la fortuna al alcance de la mano",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 832,
+    "author": "Séneca",
+    "text": "¿Preguntas qué es libertad?  No temer a los hombres ni a los dioses, no desear algo deshonesto ni excesivo, tener el completo señorío de sí mismo pues el mayor de los tesoros es poder llegar a ser dueño de nuestro propio ser",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 833,
+    "author": "Séneca",
+    "text": "¿Qué progreso, preguntas, he hecho? He comenzado a ser amigo de mí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 834,
+    "author": "Zenón de Citio",
+    "text": "El hombre conquista el mundo conquistándose a sí mismo",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 835,
+    "author": "Zenón de Citio",
+    "text": "La sabiduría es la más valiosa de todas las posesiones",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 836,
+    "author": "Zenón de Citio",
+    "text": "Ninguna pérdida debe sernos más sensible que la del tiempo, puesto que es irreparable",
+    "date": "2023-01-01"
+  },
+  {
+    "id": 837,
+    "author": "Zenón de Citio",
+    "text": "Recordad que la naturaleza nos ha dado dos oídos y una boca para enseñarnos que vale más oír que hablar",
+    "date": "2023-01-01"
+  }
+]
